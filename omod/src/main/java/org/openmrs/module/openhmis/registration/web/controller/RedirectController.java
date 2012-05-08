@@ -1,4 +1,4 @@
-package org.openmrs.module.registration.web.controller;
+package org.openmrs.module.openhmis.registration.web.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

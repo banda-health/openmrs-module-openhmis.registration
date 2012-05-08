@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.openmrs.module</groupId>
-	<artifactId>registration</artifactId>
+	<artifactId>openhmis-registration</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>Registration Module</name>
+	<name>OpenHMIS Registration Module</name>
 	<description>Customized registration module for OpenHMIS</description>
 	<url>https://wiki.openmrs.org/display/docs/Registration+Module+Module</url>
 	
@@ -15,16 +15,16 @@
 			<name>Mario Somrei</name>
 		</developer>
 	</developers>
-	
-	<organization>
-		<name>OpenMRS</name>
-		<url>http://openmrs.org</url>
-	</organization>
+
+    <organization>
+        <name>OpenHMIS</name>
+        <url>http://openhmis.github.com/OpenHMIS/</url>
+    </organization>
 
 	<scm>
-		<connection>scm:svn:https://svn.openmrs.org/openmrs-modules/registration/trunk/</connection>
-		<developerConnection>scm:svn:https://svn.openmrs.org/openmrs-modules/registration/trunk/</developerConnection>
-		<url>https://svn.openmrs.org/openmrs-modules/registration/trunk/</url>
+		<connection>scm:git:git@github.com:OpenHMIS/plm.git</connection>
+		<developerConnection>scm:git:git@github.com:OpenHMIS/plm.git</developerConnection>
+		<url>scm:git:git@github.com:OpenHMIS/plm.git</url>
 	</scm>
 
 	<modules>
@@ -40,21 +40,7 @@
 
 	<dependencyManagement>
 		<dependencies>
-		
-			<!--
-			Libraries to add as dependencies with compile or runtime scope:
-			Find matching dependencies in the maven central repository.
-			<dependency>
-				<groupId>org.other.library</groupId>
-				<artifactId>library-name</artifactId>
-				<version>library.version</version>
-				<scope>compile</scope>
-			</dependency>
-			-->
-			
-			
-
-			<!-- Begin OpenMRS core -->
+		    <!-- Begin OpenMRS core -->
 			
 			<dependency>
 				<groupId>org.openmrs.api</groupId>

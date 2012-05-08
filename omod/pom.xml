@@ -4,25 +4,17 @@
 
 	<parent>
 		<groupId>org.openmrs.module</groupId>
-		<artifactId>registration</artifactId>
+		<artifactId>openhmis-registration</artifactId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>registration-omod</artifactId>
+	<artifactId>openhmis-registration-omod</artifactId>
 	<packaging>jar</packaging>
-	<name>Registration Module OMOD</name>
-	<description>OMOD project for Registration</description>
+	<name>OpenHMIS Registration Module OMOD</name>
+	<description>OMOD project for the OpenHMIS registration module</description>
 
 	<dependencies>
 
-		<!-- 
-		Add other dependencies from parent's pom: 
-		<dependency> 
-			<groupId>org.other.library</groupId> 
-			<artifactId>library-name</artifactId> 
-		</dependency> 
-		-->
-		
 		<!-- Begin OpenMRS modules -->
 		
 		<dependency>
