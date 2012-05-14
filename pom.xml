@@ -14,6 +14,10 @@
 		<developer>
 			<name>Mario Somrei</name>
 		</developer>
+		<developer>
+			<name>Wes Brown</name>
+			<email>wes@weslandia.org</email>
+		</developer>
 	</developers>
 
     <organization>
@@ -22,9 +26,9 @@
     </organization>
 
 	<scm>
-		<connection>scm:git:git@github.com:OpenHMIS/plm.git</connection>
-		<developerConnection>scm:git:git@github.com:OpenHMIS/plm.git</developerConnection>
-		<url>scm:git:git@github.com:OpenHMIS/plm.git</url>
+		<connection>scm:git:git@github.com:OpenHMIS/registration.git</connection>
+		<developerConnection>scm:git:git@github.com:OpenHMIS/registration.git</developerConnection>
+		<url>scm:git:git@github.com:OpenHMIS/registration.git</url>
 	</scm>
 
 	<modules>
