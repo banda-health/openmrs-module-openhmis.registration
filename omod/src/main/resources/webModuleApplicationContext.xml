@@ -21,11 +21,10 @@
 
 	<!-- Add here beans related to the web context -->
 
+    <bean id="registrationRedirect" class="org.openmrs.module.openhmis.registration.web.controller.RedirectController"/>
 	 
 	<!-- Annotation based controllers -->
 	<bean class="org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping"/>
 	
-	<context:component-scan base-package="org.openmrs.module.org.openmrs.module.openhmis.registration.web.controller" />
- 
-		
+	<context:component-scan base-package="org.openmrs.module.openhmis.registration.web.controller" />
 </beans>

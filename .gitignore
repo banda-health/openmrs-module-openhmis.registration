@@ -22,6 +22,7 @@
 *.iws
 .idea/workspace.xml
 .idea/libraries
+.idea/dictionaries
 
 # building
 target

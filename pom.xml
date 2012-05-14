@@ -83,7 +83,6 @@
 			</dependency>
 						
 			<!-- End OpenMRS core -->
-
 		</dependencies>
 	</dependencyManagement>
 

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/registration.iml" filepath="$PROJECT_DIR$/registration.iml" />
-      <module fileurl="file://$PROJECT_DIR$/api/registration-api.iml" filepath="$PROJECT_DIR$/api/registration-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/omod/registration-omod.iml" filepath="$PROJECT_DIR$/omod/registration-omod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openhmis-registration.iml" filepath="$PROJECT_DIR$/openhmis-registration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/openhmis-registration-api.iml" filepath="$PROJECT_DIR$/api/openhmis-registration-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/omod/openhmis-registration-omod.iml" filepath="$PROJECT_DIR$/omod/openhmis-registration-omod.iml" />
     </modules>
   </component>
 </project>

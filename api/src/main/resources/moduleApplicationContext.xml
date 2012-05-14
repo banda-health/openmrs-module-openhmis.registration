@@ -17,7 +17,7 @@
   		    http://www.springframework.org/schema/util
   		    http://www.springframework.org/schema/util/spring-util-3.0.xsd">
 
-	<!-- Add here beans related to the API context -->
+	<!-- Beans related to the API context -->
 
 	<bean id="registrationUrlMapping" class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">
         <property name="order"><value>97</value></property>
@@ -30,7 +30,7 @@
 
     <!-- Controllers start-->
     
-    <bean id="registrationRedirect" class="org.openmrs.module.openhmis.registration.web.controller.RedirectController"/>
+
     
     <!--</Controllers end -->
 </beans>

@@ -22,10 +22,8 @@
 			<artifactId>${project.parent.artifactId}-api</artifactId>
 			<version>${project.parent.version}</version>
 		</dependency>
-		
-				
+
 		<!-- End OpenMRS modules -->
-		
 
 		<!-- Begin OpenMRS core -->
 
@@ -104,6 +102,7 @@
 					<artifactId>maven-resources-plugin</artifactId>
 					<configuration>
 						<includeEmptyDirs>true</includeEmptyDirs>
+						<outputDirectory></outputDirectory>
 					</configuration>
 				</plugin>
 				<!--This plugin's configuration is used to store Eclipse m2e settings 
