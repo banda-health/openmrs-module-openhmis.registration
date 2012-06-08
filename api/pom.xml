@@ -4,11 +4,11 @@
 
 	<parent>
 		<groupId>org.openmrs.module</groupId>
-		<artifactId>openhmis-registration</artifactId>
-		<version>1.0-SNAPSHOT</version>
+		<artifactId>openhmis.registration</artifactId>
+		<version>0.5-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>openhmis-registration-api</artifactId>
+	<artifactId>openhmis.registration-api</artifactId>
 	<packaging>jar</packaging>
 	<name>OpenHMIS Registration Module API</name>
 	<description>API project for the OpenHMIS registration module</description>
@@ -52,6 +52,12 @@
 				
 		<!-- End OpenMRS core -->
 
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-all</artifactId>
+            <version>1.9.0</version>
+            <scope>test</scope>
+        </dependency>
 	</dependencies>
 	
 	<build>

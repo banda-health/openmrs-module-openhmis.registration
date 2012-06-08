@@ -3,20 +3,20 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.openmrs.module</groupId>
-	<artifactId>openhmis-registration</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<artifactId>openhmis.registration</artifactId>
+	<version>0.5-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>OpenHMIS Registration Module</name>
-	<description>Customized registration module for OpenHMIS</description>
-	<url>https://wiki.openmrs.org/display/docs/Registration+Module+Module</url>
+	<description>The OpenHMIS registration module.</description>
+	<url>https://wiki.openmrs.org/display/docs/OpenHMIS+-+Registration+Module</url>
 	
 	<developers>
+        <developer>
+            <name>Wes Brown</name>
+            <email>wes@weslandia.org</email>
+        </developer>
 		<developer>
 			<name>Mario Somrei</name>
-		</developer>
-		<developer>
-			<name>Wes Brown</name>
-			<email>wes@weslandia.org</email>
 		</developer>
 	</developers>
 
@@ -26,9 +26,9 @@
     </organization>
 
 	<scm>
-		<connection>scm:git:git@github.com:OpenHMIS/registration.git</connection>
-		<developerConnection>scm:git:git@github.com:OpenHMIS/registration.git</developerConnection>
-		<url>scm:git:git@github.com:OpenHMIS/registration.git</url>
+		<connection>scm:git:git@github.com:OpenHMIS/openmrs-module-openhmis.registration.git</connection>
+		<developerConnection>scm:git:git@github.com:OpenHMIS/openmrs-module-openhmis.registration.git</developerConnection>
+		<url>scm:git:git@github.com:OpenHMIS/openmrs-module-openhmis.registration.git</url>
 	</scm>
 
 	<modules>
@@ -37,8 +37,7 @@
 	</modules>
 	
 	<properties>
-		<!--<openMRSVersion>1.8.0</openMRSVersion>-->
-        <openMRSVersion>1.9.0-SNAPSHOT</openMRSVersion>
+        <openMRSVersion>1.9.0</openMRSVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
@@ -87,6 +86,13 @@
 			</dependency>
 						
 			<!-- End OpenMRS core -->
+
+            <dependency>
+                <groupId>org.mockito</groupId>
+                <artifactId>mockito-all</artifactId>
+                <version>1.9.0</version>
+                <scope>test</scope>
+            </dependency>
 		</dependencies>
 	</dependencyManagement>
 

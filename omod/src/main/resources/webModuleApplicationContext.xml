@@ -19,12 +19,25 @@
   		    http://www.springframework.org/schema/util
   		    http://www.springframework.org/schema/util/spring-util-3.0.xsd">
 
+    <!-- Annotation based controllers -->
+    <bean class="org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping"/>
+    <!--<bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter"/>-->
+
+    <context:component-scan base-package="org.openmrs.module.openhmis.registration.web.controller" />
+
 	<!-- Add here beans related to the web context -->
 
-    <bean id="registrationRedirect" class="org.openmrs.module.openhmis.registration.web.controller.RedirectController"/>
-	 
-	<!-- Annotation based controllers -->
-	<bean class="org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping"/>
-	
-	<context:component-scan base-package="org.openmrs.module.openhmis.registration.web.controller" />
+    <!--
+    <bean id="registrationUrlMapping" class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">
+        <property name="order" value="97"/>
+        <property name="mappings">
+            <props>
+                <prop key="**/findPatient.htm">registrationRedirect</prop>
+            </props>
+        </property>
+    </bean>
+
+    <bean id="registrationRedirect"
+          class="org.openmrs.module.openhmis.registration.web.controller.RedirectController"/>
+    -->
 </beans>

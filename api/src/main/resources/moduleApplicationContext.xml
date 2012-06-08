@@ -19,14 +19,7 @@
 
 	<!-- Beans related to the API context -->
 
-	<bean id="registrationUrlMapping" class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">
-        <property name="order"><value>97</value></property>
-        <property name="mappings">
-            <props>
-                <prop key="**/findPatient.htm">registrationRedirect</prop>
-            </props>
-        </property>
-    </bean>
+
 
     <!-- Controllers start-->
     

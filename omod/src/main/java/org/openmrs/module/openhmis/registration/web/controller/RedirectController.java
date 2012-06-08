@@ -1,5 +1,6 @@
 package org.openmrs.module.openhmis.registration.web.controller;
 
+import org.openmrs.module.openhmis.registration.WebConstants;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -9,6 +10,6 @@ public class RedirectController {
 
 	@RequestMapping(method=RequestMethod.GET)
 	public String redirect() {
-		return "redirect:/module/registration/findPatientForm.htm";
+		return "redirect:" + WebConstants.MODULE_BASE_URL + "findPatientForm.htm";
 	}
 }

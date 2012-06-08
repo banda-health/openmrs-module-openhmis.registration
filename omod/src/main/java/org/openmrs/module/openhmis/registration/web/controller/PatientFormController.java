@@ -7,22 +7,23 @@ import org.openmrs.Patient;
 import org.openmrs.PersonName;
 import org.openmrs.api.PatientService;
 import org.openmrs.api.context.Context;
+import org.openmrs.module.openhmis.registration.WebConstants;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
+//@RequestMapping(value="**/findPatient.htm")
 public class PatientFormController {
-
 	private static final int PATIENT_ID = 12;
 
-	@RequestMapping(value="/module/registration/findPatientForm", method=RequestMethod.GET)
+	@RequestMapping(value= WebConstants.MODULE_BASE_URL + "findPatientForm", method=RequestMethod.GET)
 	public void show() {
 		
 	}
 	
-	@RequestMapping(value="/module/registration/findPatientForm", method=RequestMethod.POST)
+	@RequestMapping(value= WebConstants.MODULE_BASE_URL + "findPatientForm", method=RequestMethod.POST)
 	public void submit(@RequestParam("addName") String addName) {
 		
 		System.out.println("Patient's name is: " + addName);
