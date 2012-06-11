@@ -4,5 +4,6 @@
 <%@ include file="template/localHeader.jsp"%>
 
 <!-- Page content goes here -->
+Configure Patient Search
 
 <%@ include file="/WEB-INF/template/footer.jsp"%>

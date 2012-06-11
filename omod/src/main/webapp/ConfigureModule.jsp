@@ -3,6 +3,6 @@
 
 <%@ include file="template/localHeader.jsp"%>
 
-<p>Hello ${user.systemId}!</p>
+Configure Module
 
 <%@ include file="/WEB-INF/template/footer.jsp"%>

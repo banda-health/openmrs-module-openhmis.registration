@@ -17,6 +17,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 import org.openmrs.module.Extension;
+import org.openmrs.module.openhmis.registration.WebConstants;
 import org.openmrs.module.web.extension.AdministrationSectionExt;
 
 /**
@@ -44,7 +45,8 @@ public class AdminList extends AdministrationSectionExt {
 	 */
 	public Map<String, String> getLinks() {
 		LinkedHashMap<String, String> map = new LinkedHashMap<String, String>();
-		map.put("/module/registration/manage.form", "registration.manage");
+		map.put(WebConstants.FORM_CONFIGURE_MODULE, "Configure Registration Module");
+		map.put(WebConstants.FORM_CONFIGURE_PATIENT_SEARCH, "Configure Patient Search");
 		return map;
 	}
 	
