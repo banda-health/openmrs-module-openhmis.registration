@@ -3,8 +3,8 @@ package org.openmrs.module.openhmis.registration;
 public final class WebConstants {
 	
 	private WebConstants() {}
-	
-	public static final String MODULE_BASE_URL = "/module/" + Constants.MODULE_NAME + "/";
+
+	public static final String MODULE_BASE_URL = "module/openhmis/registration/";
 	
 	public static final String PAGE_PATIENT_FIND_OR_CREATE = MODULE_BASE_URL + "patientFindOrCreate";
 	public static final String PAGE_PATIENT_SEARCH = MODULE_BASE_URL + "patientSearch";
