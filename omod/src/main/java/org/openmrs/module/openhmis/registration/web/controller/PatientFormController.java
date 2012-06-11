@@ -13,17 +13,17 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
-@Controller
+//@Controller
 //@RequestMapping(value="**/findPatient.htm")
 public class PatientFormController {
 	private static final int PATIENT_ID = 12;
 
-	@RequestMapping(value= WebConstants.MODULE_BASE_URL + "findPatientForm", method=RequestMethod.GET)
+	//@RequestMapping(value= WebConstants.MODULE_BASE_URL + "findPatientForm", method=RequestMethod.GET)
 	public void show() {
 		
 	}
 	
-	@RequestMapping(value= WebConstants.MODULE_BASE_URL + "findPatientForm", method=RequestMethod.POST)
+	//@RequestMapping(value= WebConstants.MODULE_BASE_URL + "findPatientForm", method=RequestMethod.POST)
 	public void submit(@RequestParam("addName") String addName) {
 		
 		System.out.println("Patient's name is: " + addName);
