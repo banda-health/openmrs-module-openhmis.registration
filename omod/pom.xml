@@ -62,6 +62,13 @@
 		
 		<!-- End OpenMRS core -->
 
+        <dependency>
+            <groupId>org.codehaus.jackson</groupId>
+            <artifactId>jackson-mapper-asl</artifactId>
+            <version>1.5.3</version>
+            <scope>jar</scope>
+        </dependency>
+
 	</dependencies>
 
 	<build>

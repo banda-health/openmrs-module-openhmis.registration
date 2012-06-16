@@ -6,18 +6,15 @@
 	<artifactId>openhmis.registration</artifactId>
 	<version>0.5-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>OpenHMIS Registration Module</name>
+	<name>OpenHMIS Registration</name>
 	<description>The OpenHMIS registration module.</description>
 	<url>https://wiki.openmrs.org/display/docs/OpenHMIS+-+Registration+Module</url>
 	
 	<developers>
         <developer>
-            <name>Wes Brown</name>
-            <email>wes@weslandia.org</email>
+            <organization>OpenHMIS</organization>
+            <organizationUrl>http://openhmis.github.com</organizationUrl>
         </developer>
-		<developer>
-			<name>Mario Somrei</name>
-		</developer>
 	</developers>
 
     <organization>
