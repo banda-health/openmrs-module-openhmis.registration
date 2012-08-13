@@ -1,8 +1,29 @@
 <%@ include file="/WEB-INF/template/include.jsp"%>
-<%@ include file="/WEB-INF/template/header.jsp"%>
+<openmrs:require privilege="View People" otherwise="/login.htm" redirect="/personDashboard.form" />
 
-<%@ include file="template/localHeader.jsp"%>
+<c:set var="OPENMRS_VIEWING_PERSON_ID" scope="request" value="${person.personId}"/>
 
-<!-- Page content goes here -->
+<spring:message var="pageTitle" code="personDashboard.title" scope="page"/>
+<%@ include file="/WEB-INF/template/header.jsp" %>
+
+<c:if test="${person.patient}">
+    <a href="patientDashboard.form?patientId=${person.personId}">
+        <spring:message code="patientDashboard.viewDashboard"/>
+    </a>
+    <br/>
+</c:if>
+
+<br/>
+
+<openmrs:portlet url="personHeader" id="patientDashboardHeader" personId="${person.personId}"/>
+
+<br/>
+
+<openmrs:hasPrivilege privilege="Person Dashboard - View Relationships">
+    <div class="boxHeader"><spring:message code="Relationship.relationships" /></div>
+    <div class="box">
+        <openmrs:portlet url="personRelationships" size="normal" personId="${person.personId}"/>
+    </div>
+</openmrs:hasPrivilege>
 
 <%@ include file="/WEB-INF/template/footer.jsp"%>

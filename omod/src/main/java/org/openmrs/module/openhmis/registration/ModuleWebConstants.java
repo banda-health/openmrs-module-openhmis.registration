@@ -17,10 +17,6 @@ public final class ModuleWebConstants {
 	public static final String FORM_CONFIGURE_MODULE = PAGE_CONFIGURE_MODULE + ".form";
 	public static final String FORM_CONFIGURE_PATIENT_SEARCH = PAGE_CONFIGURE_PATIENT_SEARCH + ".form";
 
-	public static final String PORTLET_BASE_URL = MODULE_BASE_URL + "portlets/";
-	public static final String PORTLET_PATIENT_FIND = PORTLET_BASE_URL + "findPatientPortlet";
-	public static final String PORTLET_PATIENT_ADD = PORTLET_BASE_URL + "addPatientPortlet";
-
 	public static final String AJAX_PATIENT_SEARCH = MODULE_BASE_URL + "ajaxPatientSearch";
 	public static final String AJAX_PATIENT_CREATION_SEARCH = MODULE_BASE_URL + "ajaxPatientCreationSearch";
 }
