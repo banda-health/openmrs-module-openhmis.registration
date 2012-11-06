@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<xf:xforms xmlns:xf="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jr="http://openrosa.org/javarosa">
+  <xf:model id="openmrs_model">
+    <xf:instance id="openmrs_model_instance">
+      <form id="10" name="Registration Encounter Form 2" version="0.1" uuid="151e12a1-9182-4142-8a74-18e49ac2b385" xmlns:openmrs="formentry.infopath_server_url cannot be empty/moduleServlet/formentry/forms/schema/10-1" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+  <header>
+    <enterer></enterer>
+    <date_entered></date_entered>
+    <session></session>
+    <uid></uid>
+  </header>
+  <patient>
+    <patient.patient_id openmrs_table="patient" openmrs_attribute="patient_id"></patient.patient_id>
+  </patient>
+  <encounter>
+    <encounter.encounter_datetime openmrs_table="encounter" openmrs_attribute="encounter_datetime">'today()'</encounter.encounter_datetime>
+    <encounter.location_id openmrs_table="encounter" openmrs_attribute="location_id"></encounter.location_id>
+    <encounter.provider_id openmrs_table="encounter" openmrs_attribute="provider_id" provider_id_type="PROVIDER.ID"></encounter.provider_id>
+  </encounter>
+  <obs openmrs_concept="1238^MEDICAL RECORD OBSERVATIONS^99DCT" openmrs_datatype="ZZ">
+    <date xsi:nil="true"></date>
+    <time xsi:nil="true"></time>
+    <value xsi:nil="true"></value>
+  </obs>
+  <problem_list openmrs_concept="1284^PROBLEM LIST^99DCT" openmrs_datatype="ZZ">
+    <problem_added openmrs_concept="6042^PROBLEM ADDED^99DCT" openmrs_datatype="CWE" multiple="0">
+        <date xsi:nil="true"></date>
+        <time xsi:nil="true"></time>
+        <value xsi:nil="true"></value>
+    </problem_added>
+    <problem_resolved openmrs_concept="6097^PROBLEM RESOLVED^99DCT" openmrs_datatype="CWE" multiple="0">
+        <date xsi:nil="true"></date>
+        <time xsi:nil="true"></time>
+        <value xsi:nil="true"></value>
+    </problem_resolved>
+  </problem_list>
+  <other></other></form>
+    </xf:instance>
+    <xf:bind id="patient.patient_id" nodeset="/form/patient/patient.patient_id" type="xsd:int" required="true()" visible="false()" jr:preload="patient" jr:preloadParams="patientId" />
+    <xf:bind id="encounter.encounter_datetime" nodeset="/form/encounter/encounter.encounter_datetime" type="xsd:dateTime" constraint=". &amp;lt;= today()" message="Encounter date cannot be after today" required="true()" />
+    <xf:bind id="encounter.location_id" nodeset="/form/encounter/encounter.location_id" type="xsd:int" required="true()" />
+    <xf:bind id="encounter.provider_id" nodeset="/form/encounter/encounter.provider_id" type="xsd:int" required="true()" />
+    <xf:bind id="problem_added" nodeset="/form/problem_list/problem_added" />
+    <xf:bind id="problem_resolved" nodeset="/form/problem_list/problem_resolved" />
+    <xf:bind id="problem_list_problem_added_value" nodeset="/form/problem_list/problem_added/value" type="xsd:string" />
+    <xf:bind id="problem_list_problem_resolved_value" nodeset="/form/problem_list/problem_resolved/value" type="xsd:string" />
+  </xf:model>
+  <xf:group>
+    <xf:label>Page1</xf:label>
+    <xf:input bind="patient.patient_id">
+      <xf:label>PATIENT ID     </xf:label>
+    </xf:input>
+    <xf:input bind="encounter.encounter_datetime">
+      <xf:label>ENCOUNTER DATETIME     </xf:label>
+    </xf:input>
+    <xf:select1 bind="encounter.location_id">
+      <xf:label>LOCATION ID     </xf:label>
+      <xf:item>
+        <xf:label>Kijabe [3]</xf:label>
+        <xf:value>3</xf:value>
+      </xf:item>
+      <xf:item>
+        <xf:label>Naivasha [2]</xf:label>
+        <xf:value>2</xf:value>
+      </xf:item>
+      <xf:item>
+        <xf:label>Unknown Location [1]</xf:label>
+        <xf:value>1</xf:value>
+      </xf:item>
+    </xf:select1>
+    <xf:select1 bind="encounter.provider_id">
+      <xf:label>PROVIDER ID     </xf:label>
+      <xf:item>
+        <xf:label>Bob Nurse [100-2]</xf:label>
+        <xf:value>2</xf:value>
+      </xf:item>
+      <xf:item>
+        <xf:label>Beatrice Ondoka [100-3]</xf:label>
+        <xf:value>3</xf:value>
+      </xf:item>
+      <xf:item>
+        <xf:label>John Cowie [null]</xf:label>
+        <xf:value>4</xf:value>
+      </xf:item>
+      <xf:item>
+        <xf:label>Super User [100-4]</xf:label>
+        <xf:value>5</xf:value>
+      </xf:item>
+      <xf:item>
+        <xf:label>Doctor Anne [100-1]</xf:label>
+        <xf:value>1</xf:value>
+      </xf:item>
+    </xf:select1>
+    <xf:group>
+      <xf:label>PROBLEM ADDED</xf:label>
+      <xf:hint>Diagnosis or problem noted on a patient encounter.</xf:hint>
+      <xf:repeat bind="problem_added">
+        <xf:input bind="problem_list_problem_added_value">
+          <xf:label>problem_added value</xf:label>
+          <xf:hint>Diagnosis or problem noted on a patient encounter.</xf:hint>
+        </xf:input>
+      </xf:repeat>
+    </xf:group>
+    <xf:group>
+      <xf:label>PROBLEM RESOLVED</xf:label>
+      <xf:hint>Diagnosis or problem noted on a patient encounter as being resolved.</xf:hint>
+      <xf:repeat bind="problem_resolved">
+        <xf:input bind="problem_list_problem_resolved_value">
+          <xf:label>problem_resolved value</xf:label>
+          <xf:hint>Diagnosis or problem noted on a patient encounter as being resolved.</xf:hint>
+        </xf:input>
+      </xf:repeat>
+    </xf:group>
+  </xf:group>
+</xf:xforms>

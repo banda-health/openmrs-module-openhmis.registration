@@ -1,25 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><PurcForm><Xform><xf:xforms xmlns:xf="http://www.w3.org/2002/xforms" xmlns:jr="http://openrosa.org/javarosa" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><parsererror xmlns="http://www.w3.org/1999/xhtml" style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black"><h3>This page contains the following errors:</h3><div style="font-family:monospace;font-size:12px">error on line 73 at column 28: xmlns:openmrs: 'formentry.infopath_server_url cannot be empty/moduleServlet/formentry/forms/schema/10-1' is not a valid URI
+<?xml version="1.0" encoding="UTF-8"?><PurcForm><Xform><xf:xforms xmlns:xf="http://www.w3.org/2002/xforms" xmlns:jr="http://openrosa.org/javarosa" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><parsererror xmlns="http://www.w3.org/1999/xhtml" style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black"><h3>This page contains the following errors:</h3><div style="font-family:monospace;font-size:12px">error on line 48 at column 28: xmlns:openmrs: 'formentry.infopath_server_url cannot be empty/moduleServlet/formentry/forms/schema/1-1' is not a valid URI
+</div><h3>Below is a rendering of the page up to the first error.</h3></parsererror><parsererror xmlns="http://www.w3.org/1999/xhtml" style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black"><h3>This page contains the following errors:</h3><div style="font-family:monospace;font-size:12px">error on line 47 at column 28: xmlns:openmrs: 'formentry.infopath_server_url cannot be empty/moduleServlet/formentry/forms/schema/1-1' is not a valid URI
+</div><h3>Below is a rendering of the page up to the first error.</h3></parsererror><parsererror xmlns="http://www.w3.org/1999/xhtml" style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black"><h3>This page contains the following errors:</h3><div style="font-family:monospace;font-size:12px">error on line 46 at column 28: xmlns:openmrs: 'formentry.infopath_server_url cannot be empty/moduleServlet/formentry/forms/schema/1-1' is not a valid URI
+</div><h3>Below is a rendering of the page up to the first error.</h3></parsererror><parsererror xmlns="http://www.w3.org/1999/xhtml" style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black"><h3>This page contains the following errors:</h3><div style="font-family:monospace;font-size:12px">error on line 46 at column 44: xmlns:openmrs: 'formentry.infopath_server_url cannot be empty/moduleServlet/formentry/forms/schema/1-1' is not a valid URI
 </div><h3>Below is a rendering of the page up to the first error.</h3></parsererror>
-  <parsererror xmlns="http://www.w3.org/1999/xhtml" style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black">
-    <h3>This page contains the following errors:</h3>
-    <div style="font-family:monospace;font-size:12px">error on line 68 at column 28: xmlns:openmrs: 'formentry.infopath_server_url cannot be empty/moduleServlet/formentry/forms/schema/10-1' is not a valid URI </div>
-    <h3>Below is a rendering of the page up to the first error.</h3>
-  </parsererror>
-  <parsererror xmlns="http://www.w3.org/1999/xhtml" style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black">
-    <h3>This page contains the following errors:</h3>
-    <div style="font-family:monospace;font-size:12px">error on line 63 at column 28: xmlns:openmrs: 'formentry.infopath_server_url cannot be empty/moduleServlet/formentry/forms/schema/10-1' is not a valid URI </div>
-    <h3>Below is a rendering of the page up to the first error.</h3>
-  </parsererror>
-  <parsererror xmlns="http://www.w3.org/1999/xhtml" style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black">
-    <h3>This page contains the following errors:</h3>
-    <div style="font-family:monospace;font-size:12px">error on line 58 at column 28: xmlns:openmrs: 'formentry.infopath_server_url cannot be empty/moduleServlet/formentry/forms/schema/10-1' is not a valid URI </div>
-    <h3>Below is a rendering of the page up to the first error.</h3>
-  </parsererror>
-  <parsererror xmlns="http://www.w3.org/1999/xhtml" style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black">
-    <h3>This page contains the following errors:</h3>
-    <div style="font-family:monospace;font-size:12px">error on line 53 at column 44: xmlns:openmrs: 'formentry.infopath_server_url cannot be empty/moduleServlet/formentry/forms/schema/10-1' is not a valid URI </div>
-    <h3>Below is a rendering of the page up to the first error.</h3>
-  </parsererror>
   <xf:model>
     <xf:instance>
       <patient name="Patient" id="0" description-template="${/patient/family_name}$ ${/patient/middle_name}$ ${/patient/given_name}$">
@@ -29,141 +12,112 @@
         <given_name/>
         <birth_date/>
         <birth_date_estimated/>
-        <gender/>
-        <degree/>
-        <family_name2/>
-        <family_name_prefix/>
-        <family_name_suffix/>
-        <prefix/>
-        <location_id/>
-        <patient_identifier_type_id/>
-        <person_attribute2/>
-        <person_attribute3/>
-        <person_attribute5/>
-        <person_attribute7/>
-        <person_attribute6/>
-        <person_attribute4/>
-        <person_attribute1/>
-        <person_attribute8/>
-        <person_address_address1/>
-        <person_address_address2/>
-        <person_address_city_village/>
-        <person_address_state_province/>
-        <person_address_postal_code/>
-        <person_address_country/>
-        <person_address_latitude/>
-        <person_address_longitude/>
-        <person_address_county_district/>
-        <person_address_neighborhood_cell/>
-        <person_address_region/>
-        <person_address_subregion/>
-        <person_address_township_division/>
-        <other_identifiers>
+        <gender/><degree/><family_name2/><family_name_prefix/><family_name_suffix/><prefix/><location_id/><patient_identifier_type_id/><person_attribute2/><person_attribute3/><person_attribute7/><person_attribute6/><person_attribute4/><person_attribute1/><person_address_address1/><person_address_address2/><person_address_city_village/><person_address_state_province/><person_address_postal_code/><person_address_country/><person_address_latitude/><person_address_longitude/><person_address_county_district/><person_address_neighborhood_cell/><person_address_region/><person_address_subregion/><person_address_township_division/><other_identifiers>
           <other_identifier/>
           <other_identifier_type_id/>
           <other_identifier_location_id/>
-        </other_identifiers>
-        <person_attribute9/>
-        <person_attribute10/>
-        <identifier/>
+        </other_identifiers><identifier/>
         <patient_id/>
-        <person_attribute11/>
-        <person_attribute12/>
-        <person_attribute13/>
-        <form xmlns:openmrs="formentry.infopath_server_url cannot be empty/moduleServlet/formentry/forms/schema/10-1" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" id="10" name="Registration Encounter Form 2" version="0.1">
-          <header>
-            <enterer/>
-            <date_entered/>
-            <session/>
-            <uid/>
-          </header>
-          <patient>
-            <patient.patient_id openmrs_table="patient" openmrs_attribute="patient_id"/>
-          </patient>
-          <encounter>
-            <encounter.encounter_datetime openmrs_table="encounter" openmrs_attribute="encounter_datetime">'today()'</encounter.encounter_datetime>
-            <encounter.location_id openmrs_table="encounter" openmrs_attribute="location_id"/>
-            <encounter.provider_id openmrs_table="encounter" openmrs_attribute="provider_id" provider_id_type="PROVIDER.ID"/>
-          </encounter>
-          <obs openmrs_concept="1238^MEDICAL RECORD OBSERVATIONS^99DCT" openmrs_datatype="ZZ">
-            <date xsi:nil="true"/>
-            <time xsi:nil="true"/>
-            <value xsi:nil="true"/>
-          </obs>
-          <problem_list openmrs_concept="1284^PROBLEM LIST^99DCT" openmrs_datatype="ZZ">
-            <problem_added openmrs_concept="6042^PROBLEM ADDED^99DCT" openmrs_datatype="CWE" multiple="0">
-              <date xsi:nil="true"/>
-              <time xsi:nil="true"/>
-              <value xsi:nil="true"/>
-            </problem_added>
-            <problem_resolved openmrs_concept="6097^PROBLEM RESOLVED^99DCT" openmrs_datatype="CWE" multiple="0">
-              <date xsi:nil="true"/>
-              <time xsi:nil="true"/>
-              <value xsi:nil="true"/>
-            </problem_resolved>
-          </problem_list>
-          <other/>
-        </form>
-        <age_in_years/>
-        <age_in_months/>
-      </patient>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <form xmlns:openmrs="formentry.infopath_server_url cannot be empty/moduleServlet/formentry/forms/schema/1-1" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" id="1" name="Registration Encounter" version="1">
+  <header>
+    <enterer/>
+    <date_entered/>
+    <session/>
+    <uid/>
+  </header>
+  <patient>
+    
+    
+    
+    
+    
+    <patient.patient_id openmrs_table="patient" openmrs_attribute="patient_id"/>
+    
+  </patient>
+  <encounter>
+    <encounter.encounter_datetime openmrs_table="encounter" openmrs_attribute="encounter_datetime" xsi:nil="true">2012-11-06T14:13:18+0300</encounter.encounter_datetime>
+    <encounter.location_id openmrs_table="encounter" openmrs_attribute="location_id" xsi:nil="true"/>
+    <encounter.provider_id openmrs_table="encounter" openmrs_attribute="provider_id" xsi:nil="true" provider_id_type="PROVIDER.ID"/>
+  </encounter>
+  <obs openmrs_concept="3^MEDICAL RECORD OBSERVATIONS^99DCT" openmrs_datatype="ZZ">
+    <date xsi:nil="true"/>
+    <time xsi:nil="true"/>
+    <value xsi:nil="true"/>
+  </obs>
+  <other/></form>
+      <person_attribute5/><person_attribute8/><person_attribute9/><person_attribute10/><person_attribute11/><person_attribute12/><person_attribute13/><age_in_years/><age_in_months/></patient>
     </xf:instance>
     <xf:bind id="family_name" nodeset="/patient/family_name" type="xsd:string" required="true()"/>
     <xf:bind id="middle_name" nodeset="/patient/middle_name" type="xsd:string"/>
     <xf:bind id="given_name" nodeset="/patient/given_name" type="xsd:string"/>
     <xf:bind id="birth_date" nodeset="/patient/birth_date" type="xsd:date"/>
     <xf:bind id="birth_date_estimated" nodeset="/patient/birth_date_estimated" type="xsd:boolean"/>
-    <xf:bind id="gender" nodeset="/patient/gender" type="xsd:string"/>
-    <xf:bind id="degree" nodeset="/patient/degree" type="xsd:string"/>
-    <xf:bind id="family_name2" nodeset="/patient/family_name2" type="xsd:string"/>
-    <xf:bind id="family_name_prefix" nodeset="/patient/family_name_prefix" type="xsd:string"/>
-    <xf:bind id="family_name_suffix" nodeset="/patient/family_name_suffix" type="xsd:string"/>
-    <xf:bind id="prefix" nodeset="/patient/prefix" type="xsd:string"/>
-    <xf:bind id="location_id" nodeset="/patient/location_id" type="xsd:string" required="true()"/>
-    <xf:bind id="patient_identifier_type_id" nodeset="/patient/patient_identifier_type_id" type="xsd:string" required="true()"/>
-    <xf:bind id="person_attribute2" nodeset="/patient/person_attribute2" type="xsd:string"/>
-    <xf:bind id="person_attribute3" nodeset="/patient/person_attribute3" type="xsd:string"/>
-    <xf:bind id="person_attribute5" nodeset="/patient/person_attribute5" type="xsd:string"/>
-    <xf:bind id="person_attribute7" nodeset="/patient/person_attribute7" type="xsd:string"/>
-    <xf:bind id="person_attribute6" nodeset="/patient/person_attribute6" type="xsd:string"/>
-    <xf:bind id="person_attribute4" nodeset="/patient/person_attribute4" type="xsd:string" required="true()"/>
-    <xf:bind id="person_attribute1" nodeset="/patient/person_attribute1" type="xsd:string"/>
-    <xf:bind id="person_attribute8" nodeset="/patient/person_attribute8" type="xsd:string"/>
-    <xf:bind id="person_address_address1" nodeset="/patient/person_address_address1" type="xsd:string"/>
-    <xf:bind id="person_address_address2" nodeset="/patient/person_address_address2" type="xsd:string"/>
-    <xf:bind id="person_address_city_village" nodeset="/patient/person_address_city_village" type="xsd:string"/>
-    <xf:bind id="person_address_state_province" nodeset="/patient/person_address_state_province" type="xsd:string"/>
-    <xf:bind id="person_address_postal_code" nodeset="/patient/person_address_postal_code" type="xsd:string"/>
-    <xf:bind id="person_address_country" nodeset="/patient/person_address_country" type="xsd:string"/>
-    <xf:bind id="person_address_latitude" nodeset="/patient/person_address_latitude" type="xsd:string"/>
-    <xf:bind id="person_address_longitude" nodeset="/patient/person_address_longitude" type="xsd:string"/>
-    <xf:bind id="person_address_county_district" nodeset="/patient/person_address_county_district" type="xsd:string"/>
-    <xf:bind id="person_address_neighborhood_cell" nodeset="/patient/person_address_neighborhood_cell" type="xsd:string"/>
-    <xf:bind id="person_address_region" nodeset="/patient/person_address_region" type="xsd:string"/>
-    <xf:bind id="person_address_subregion" nodeset="/patient/person_address_subregion" type="xsd:string"/>
-    <xf:bind id="person_address_township_division" nodeset="/patient/person_address_township_division" type="xsd:string"/>
-    <xf:bind id="other_identifiers" nodeset="/patient/other_identifiers" type="xsd:string"/>
-    <xf:bind id="person_attribute9" nodeset="/patient/person_attribute9" type="xsd:string"/>
-    <xf:bind id="person_attribute10" nodeset="/patient/person_attribute10" type="xsd:string"/>
-    <xf:bind id="encounter.encounter_datetime" nodeset="/patient/form/encounter/encounter.encounter_datetime" type="xsd:dateTime" constraint=". &lt;= today()" message="Encounter date cannot be after today" required="true()"/>
-    <xf:bind id="encounter.provider_id" nodeset="/patient/form/encounter/encounter.provider_id" type="xsd:string" required="true()"/>
-    <xf:bind id="identifier" nodeset="/patient/identifier" type="xsd:string" required="true()"/>
-    <xf:bind id="patient_id" nodeset="/patient/patient_id" type="xsd:int" readonly="true()" visible="false()"/>
-    <xf:bind id="problem_added" nodeset="/patient/form/problem_list/problem_added" type="xsd:string"/>
-    <xf:bind id="problem_resolved" nodeset="/patient/form/problem_list/problem_resolved" type="xsd:string"/>
-    <xf:bind id="person_attribute11" nodeset="/patient/person_attribute11" type="xsd:string"/>
-    <xf:bind id="person_attribute12" nodeset="/patient/person_attribute12" type="xsd:string"/>
-    <xf:bind id="person_attribute13" nodeset="/patient/person_attribute13" type="xsd:string"/>
+    <xf:bind id="gender" nodeset="/patient/gender" type="xsd:string"/><xf:bind id="degree" nodeset="/patient/degree" type="xsd:string"/><xf:bind id="family_name2" nodeset="/patient/family_name2" type="xsd:string"/><xf:bind id="family_name_prefix" nodeset="/patient/family_name_prefix" type="xsd:string"/><xf:bind id="family_name_suffix" nodeset="/patient/family_name_suffix" type="xsd:string"/><xf:bind id="prefix" nodeset="/patient/prefix" type="xsd:string"/><xf:bind id="location_id" nodeset="/patient/location_id" type="xsd:string" required="true()"/><xf:bind id="patient_identifier_type_id" nodeset="/patient/patient_identifier_type_id" type="xsd:string" required="true()"/><xf:bind id="person_attribute2" nodeset="/patient/person_attribute2" type="xsd:string"/><xf:bind id="person_attribute3" nodeset="/patient/person_attribute3" type="xsd:string"/><xf:bind id="person_attribute7" nodeset="/patient/person_attribute7" type="xsd:string"/><xf:bind id="person_attribute6" nodeset="/patient/person_attribute6" type="xsd:string"/><xf:bind id="person_attribute4" nodeset="/patient/person_attribute4" type="xsd:string" required="true()"/><xf:bind id="person_attribute1" nodeset="/patient/person_attribute1" type="xsd:string"/><xf:bind id="person_address_address1" nodeset="/patient/person_address_address1" type="xsd:string"/><xf:bind id="person_address_address2" nodeset="/patient/person_address_address2" type="xsd:string"/><xf:bind id="person_address_city_village" nodeset="/patient/person_address_city_village" type="xsd:string"/><xf:bind id="person_address_state_province" nodeset="/patient/person_address_state_province" type="xsd:string"/><xf:bind id="person_address_postal_code" nodeset="/patient/person_address_postal_code" type="xsd:string"/><xf:bind id="person_address_country" nodeset="/patient/person_address_country" type="xsd:string"/><xf:bind id="person_address_latitude" nodeset="/patient/person_address_latitude" type="xsd:string"/><xf:bind id="person_address_longitude" nodeset="/patient/person_address_longitude" type="xsd:string"/><xf:bind id="person_address_county_district" nodeset="/patient/person_address_county_district" type="xsd:string"/><xf:bind id="person_address_neighborhood_cell" nodeset="/patient/person_address_neighborhood_cell" type="xsd:string"/><xf:bind id="person_address_region" nodeset="/patient/person_address_region" type="xsd:string"/><xf:bind id="person_address_subregion" nodeset="/patient/person_address_subregion" type="xsd:string"/><xf:bind id="person_address_township_division" nodeset="/patient/person_address_township_division" type="xsd:string"/><xf:bind id="other_identifiers" nodeset="/patient/other_identifiers" type="xsd:string"/><xf:bind id="identifier" nodeset="/patient/identifier" type="xsd:string" required="true()"/>
+    <xf:bind id="patient_id" nodeset="/patient/patient_id" type="xsd:string" readonly="true()" visible="false()"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <xf:bind id="other_identifier" nodeset="/patient/other_identifiers/other_identifier" type="xsd:string"/>
     <xf:bind id="other_identifier_type_id" nodeset="/patient/other_identifiers/other_identifier_type_id" type="xsd:string"/>
     <xf:bind id="other_identifier_location_id" nodeset="/patient/other_identifiers/other_identifier_location_id" type="xsd:string"/>
     <xf:bind id="patient.patient_id" nodeset="/patient/form/patient/patient.patient_id" type="xsd:int" required="true()" visible="false()" jr:preload="patient" jr:preloadParams="patientId"/>
+    <xf:bind id="encounter.encounter_datetime" nodeset="/patient/form/encounter/encounter.encounter_datetime" type="xsd:dateTime" constraint=". &lt;= today()" message="Encounter date cannot be after today" required="true()"/>
     <xf:bind id="encounter.location_id" nodeset="/patient/form/encounter/encounter.location_id" type="xsd:int" required="true()"/>
-    <xf:bind id="problem_list_problem_added_value" nodeset="/patient/form/problem_list/problem_added/value" type="xsd:string"/>
-    <xf:bind id="problem_list_problem_resolved_value" nodeset="/patient/form/problem_list/problem_resolved/value" type="xsd:string"/>
-    <xf:bind id="age_in_years" nodeset="/patient/age_in_years" type="xsd:int"/>
-    <xf:bind id="age_in_months" nodeset="/patient/age_in_months" type="xsd:int"/>
-  </xf:model>
+    <xf:bind id="encounter.provider_id" nodeset="/patient/form/encounter/encounter.provider_id" type="xsd:string" required="true()"/>
+  <xf:bind id="person_attribute5" nodeset="/patient/person_attribute5" type="xsd:string"/><xf:bind id="person_attribute8" nodeset="/patient/person_attribute8" type="xsd:string"/><xf:bind id="person_attribute9" nodeset="/patient/person_attribute9" type="xsd:string"/><xf:bind id="person_attribute10" nodeset="/patient/person_attribute10" type="xsd:string"/><xf:bind id="person_attribute11" nodeset="/patient/person_attribute11" type="xsd:string"/><xf:bind id="person_attribute12" nodeset="/patient/person_attribute12" type="xsd:string"/><xf:bind id="person_attribute13" nodeset="/patient/person_attribute13" type="xsd:string"/><xf:bind id="age_in_years" nodeset="/patient/age_in_years" type="xsd:int"/><xf:bind id="age_in_months" nodeset="/patient/age_in_months" type="xsd:int"/></xf:model>
   <xf:group id="1">
     <xf:label>Page1</xf:label>
     <xf:input bind="family_name">
@@ -197,44 +151,29 @@
         <xf:label>Female</xf:label>
         <xf:value>F</xf:value>
       </xf:item>
-    </xf:select1>
-    <xf:input bind="degree">
+    </xf:select1><xf:input bind="degree">
       <xf:label>Degree</xf:label>
       <xf:hint>The patient name degree</xf:hint>
-    </xf:input>
-    <xf:input bind="family_name2">
+    </xf:input><xf:input bind="family_name2">
       <xf:label>Family Name 2</xf:label>
       <xf:hint>The patient second family name</xf:hint>
-    </xf:input>
-    <xf:input bind="family_name_prefix">
+    </xf:input><xf:input bind="family_name_prefix">
       <xf:label>Family Name Prefix</xf:label>
       <xf:hint>The patient family name prefix</xf:hint>
-    </xf:input>
-    <xf:input bind="family_name_suffix">
+    </xf:input><xf:input bind="family_name_suffix">
       <xf:label>Family Name Suffix</xf:label>
       <xf:hint>The patient family name suffix</xf:hint>
-    </xf:input>
-    <xf:input bind="prefix">
+    </xf:input><xf:input bind="prefix">
       <xf:label>Prefix</xf:label>
       <xf:hint>The patient name prefix</xf:hint>
-    </xf:input>
-    <xf:select1 bind="location_id">
+    </xf:input><xf:select1 bind="location_id">
       <xf:label>Location</xf:label>
       <xf:hint>The patient's location</xf:hint>
-      <xf:item id="3">
-        <xf:label>Kijabe</xf:label>
-        <xf:value>3</xf:value>
-      </xf:item>
-      <xf:item id="2">
-        <xf:label>Naivasha</xf:label>
-        <xf:value>2</xf:value>
-      </xf:item>
       <xf:item id="1">
         <xf:label>Unknown Location</xf:label>
         <xf:value>1</xf:value>
       </xf:item>
-    </xf:select1>
-    <xf:select1 bind="patient_identifier_type_id">
+    </xf:select1><xf:select1 bind="patient_identifier_type_id">
       <xf:label>Identifier Type</xf:label>
       <xf:hint>The patient's identifier type</xf:hint>
       <xf:item id="2">
@@ -245,115 +184,55 @@
         <xf:label>OpenMRS Identification Number</xf:label>
         <xf:value>1</xf:value>
       </xf:item>
-    </xf:select1>
-    <xf:input bind="person_attribute2">
+    </xf:select1><xf:input bind="person_attribute2">
       <xf:label>Birthplace</xf:label>
       <xf:hint>Location of persons birth</xf:hint>
-    </xf:input>
-    <xf:input bind="person_attribute3">
+    </xf:input><xf:input bind="person_attribute3">
       <xf:label>Citizenship</xf:label>
       <xf:hint>Country of which this person is a member</xf:hint>
-    </xf:input>
-    <xf:select1 bind="person_attribute5">
-      <xf:label>Civil Status</xf:label>
-      <xf:hint>Marriage status of this person</xf:hint>
-      <xf:item concept_id="1057" id="1057">
-        <xf:label>NEVER MARRIED</xf:label>
-        <xf:value>1057</xf:value>
-      </xf:item>
-      <xf:item concept_id="1060" id="1060">
-        <xf:label>LIVING WITH PARTNER</xf:label>
-        <xf:value>1060</xf:value>
-      </xf:item>
-      <xf:item concept_id="5555" id="5555">
-        <xf:label>MARRIED</xf:label>
-        <xf:value>5555</xf:value>
-      </xf:item>
-      <xf:item concept_id="1056" id="1056">
-        <xf:label>SEPARATED</xf:label>
-        <xf:value>1056</xf:value>
-      </xf:item>
-      <xf:item concept_id="1058" id="1058">
-        <xf:label>DIVORCED</xf:label>
-        <xf:value>1058</xf:value>
-      </xf:item>
-      <xf:item concept_id="1059" id="1059">
-        <xf:label>WIDOWED</xf:label>
-        <xf:value>1059</xf:value>
-      </xf:item>
-    </xf:select1>
-    <xf:select1 bind="person_attribute7">
+    </xf:input><xf:select1 bind="person_attribute7">
       <xf:label>Health Center</xf:label>
       <xf:hint>Specific Location of this person's home health center.</xf:hint>
-      <xf:item id="3">
-        <xf:label>Kijabe [3]</xf:label>
-        <xf:value>3</xf:value>
-      </xf:item>
-      <xf:item id="2">
-        <xf:label>Naivasha [2]</xf:label>
-        <xf:value>2</xf:value>
-      </xf:item>
       <xf:item id="1">
         <xf:label>Unknown Location [1]</xf:label>
         <xf:value>1</xf:value>
       </xf:item>
-    </xf:select1>
-    <xf:input bind="person_attribute6">
+    <xf:item id="3"><xf:label>Kijabe [3]</xf:label><xf:value>3</xf:value></xf:item><xf:item id="2"><xf:label>Naivasha [2]</xf:label><xf:value>2</xf:value></xf:item></xf:select1><xf:input bind="person_attribute6">
       <xf:label>Health District</xf:label>
       <xf:hint>District/region in which this patient' home health center resides</xf:hint>
-    </xf:input>
-    <xf:input bind="person_attribute4">
+    </xf:input><xf:input bind="person_attribute4">
       <xf:label>Emergency Contact Name</xf:label>
       <xf:hint>Name of next of kin or an emergency contact</xf:hint>
-    </xf:input>
-    <xf:input bind="person_attribute1">
+    </xf:input><xf:input bind="person_attribute1">
       <xf:label>Race</xf:label>
       <xf:hint>Group of persons related by common descent or heredity</xf:hint>
-    </xf:input>
-    <xf:input bind="person_attribute8">
-      <xf:label>Hair Colour</xf:label>
-      <xf:hint>Hair colour</xf:hint>
-    </xf:input>
-    <xf:input bind="person_address_address1">
+    </xf:input><xf:input bind="person_address_address1">
       <xf:label>Address 1</xf:label>
-    </xf:input>
-    <xf:input bind="person_address_address2">
+    </xf:input><xf:input bind="person_address_address2">
       <xf:label>Address 2</xf:label>
-    </xf:input>
-    <xf:input bind="person_address_city_village">
+    </xf:input><xf:input bind="person_address_city_village">
       <xf:label>City/Village</xf:label>
-    </xf:input>
-    <xf:input bind="person_address_state_province">
+    </xf:input><xf:input bind="person_address_state_province">
       <xf:label>State/Province</xf:label>
-    </xf:input>
-    <xf:input bind="person_address_postal_code">
+    </xf:input><xf:input bind="person_address_postal_code">
       <xf:label>Postal Code</xf:label>
-    </xf:input>
-    <xf:input bind="person_address_country">
+    </xf:input><xf:input bind="person_address_country">
       <xf:label>Country</xf:label>
-    </xf:input>
-    <xf:input bind="person_address_latitude">
+    </xf:input><xf:input bind="person_address_latitude">
       <xf:label>Latitude</xf:label>
-    </xf:input>
-    <xf:input bind="person_address_longitude">
+    </xf:input><xf:input bind="person_address_longitude">
       <xf:label>Longitude</xf:label>
-    </xf:input>
-    <xf:input bind="person_address_county_district">
+    </xf:input><xf:input bind="person_address_county_district">
       <xf:label>County/District</xf:label>
-    </xf:input>
-    <xf:input bind="person_address_neighborhood_cell">
+    </xf:input><xf:input bind="person_address_neighborhood_cell">
       <xf:label>Neighborhood Cell</xf:label>
-    </xf:input>
-    <xf:input bind="person_address_region">
+    </xf:input><xf:input bind="person_address_region">
       <xf:label>Region</xf:label>
-    </xf:input>
-    <xf:input bind="person_address_subregion">
+    </xf:input><xf:input bind="person_address_subregion">
       <xf:label>Sub Region</xf:label>
-    </xf:input>
-    <xf:input bind="person_address_township_division">
+    </xf:input><xf:input bind="person_address_township_division">
       <xf:label>Township/Division</xf:label>
-    </xf:input>
-    <xf:group id="other_identifiers">
+    </xf:input><xf:group id="other_identifiers">
       <xf:label>Other dentifiers</xf:label>
       <xf:repeat bind="other_identifiers">
         <xf:input bind="other_identifier">
@@ -375,48 +254,13 @@
         <xf:select1 bind="other_identifier_location_id">
           <xf:label>Identifier Location</xf:label>
           <xf:hint>The patient's other identifier location</xf:hint>
-          <xf:item id="3">
-            <xf:label>Kijabe [3]</xf:label>
-            <xf:value>3</xf:value>
-          </xf:item>
-          <xf:item id="2">
-            <xf:label>Naivasha [2]</xf:label>
-            <xf:value>2</xf:value>
-          </xf:item>
           <xf:item id="1">
             <xf:label>Unknown Location [1]</xf:label>
             <xf:value>1</xf:value>
           </xf:item>
-        </xf:select1>
+        <xf:item id="3"><xf:label>Kijabe [3]</xf:label><xf:value>3</xf:value></xf:item><xf:item id="2"><xf:label>Naivasha [2]</xf:label><xf:value>2</xf:value></xf:item></xf:select1>
       </xf:repeat>
-    </xf:group>
-    <xf:input bind="person_attribute9">
-      <xf:label>Phone Number</xf:label>
-      <xf:hint>Phone number</xf:hint>
-    </xf:input>
-    <xf:input bind="person_attribute10">
-      <xf:label>Chief/Local Council</xf:label>
-      <xf:hint>Chief or local council name</xf:hint>
-    </xf:input>
-    <xf:input bind="encounter.encounter_datetime">
-      <xf:label>ENCOUNTER DATETIME</xf:label>
-    </xf:input>
-    <xf:select1 bind="encounter.provider_id">
-      <xf:label>PROVIDER ID</xf:label>
-      <xf:item id="2">
-        <xf:label>Bob Nurse [100-2]</xf:label>
-        <xf:value>2</xf:value>
-      </xf:item>
-      <xf:item id="1">
-        <xf:label>Doctor Anne [100-1]</xf:label>
-        <xf:value>1</xf:value>
-      </xf:item>
-      <xf:item id="3">
-        <xf:label>Beatrice Ondoka [100-3]</xf:label>
-        <xf:value>3</xf:value>
-      </xf:item>
-    </xf:select1>
-    <xf:input bind="identifier">
+    </xf:group><xf:input bind="identifier">
       <xf:label>Identifier</xf:label>
       <xf:hint>The patient identifier</xf:hint>
     </xf:input>
@@ -424,136 +268,50 @@
       <xf:label>Patient ID</xf:label>
       <xf:hint>The patient ID</xf:hint>
     </xf:input>
-    <xf:group id="form/problem_list/problem_added">
-      <xf:label>PROBLEM ADDED</xf:label>
-      <xf:hint>Diagnosis or problem noted on a patient encounter.</xf:hint>
-      <xf:repeat bind="problem_added">
-        <xf:input bind="problem_list_problem_added_value">
-          <xf:label>problem_added value</xf:label>
-        </xf:input>
-      </xf:repeat>
-    </xf:group>
-    <xf:group id="form/problem_list/problem_resolved">
-      <xf:label>PROBLEM RESOLVED</xf:label>
-      <xf:hint>Diagnosis or problem noted on a patient encounter as being resolved.</xf:hint>
-      <xf:repeat bind="problem_resolved">
-        <xf:input bind="problem_list_problem_resolved_value">
-          <xf:label>problem_resolved value</xf:label>
-        </xf:input>
-      </xf:repeat>
-    </xf:group>
-    <xf:select1 bind="person_attribute11">
-      <xf:label>Emergency Contact Relationship</xf:label>
-      <xf:hint>Relationship of emergency contact to patient</xf:hint>
-      <xf:item concept_id="971" id="971">
-        <xf:label>FATHER</xf:label>
-        <xf:value>971</xf:value>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <xf:input bind="encounter.encounter_datetime">
+      <xf:label>ENCOUNTER DATETIME</xf:label>
+    </xf:input>
+    <xf:select1 bind="encounter.provider_id">
+      <xf:label>PROVIDER ID</xf:label>
+      <xf:item id="1">
+        <xf:label>Daniel Shorten [4-2-1]</xf:label>
+        <xf:value>1</xf:value>
       </xf:item>
-      <xf:item concept_id="970" id="970">
-        <xf:label>MOTHER</xf:label>
-        <xf:value>970</xf:value>
-      </xf:item>
-      <xf:item concept_id="972" id="972">
-        <xf:label>SIBLING</xf:label>
-        <xf:value>972</xf:value>
-      </xf:item>
-      <xf:item concept_id="973" id="973">
-        <xf:label>GRANDPARENT</xf:label>
-        <xf:value>973</xf:value>
-      </xf:item>
-      <xf:item concept_id="974" id="974">
-        <xf:label>UNCLE</xf:label>
-        <xf:value>974</xf:value>
-      </xf:item>
-      <xf:item concept_id="975" id="975">
-        <xf:label>AUNT</xf:label>
-        <xf:value>975</xf:value>
-      </xf:item>
-      <xf:item concept_id="5620" id="5620">
-        <xf:label>OTHER FAMILY MEMBER</xf:label>
-        <xf:value>5620</xf:value>
+      <xf:item id="2">
+        <xf:label>Wesley Brown [3-4-1]</xf:label>
+        <xf:value>2</xf:value>
       </xf:item>
     </xf:select1>
-    <xf:input bind="person_attribute12">
-      <xf:label>Emergency Contact Phone</xf:label>
-      <xf:hint>Phone number of a person's emergency contact</xf:hint>
-    </xf:input>
-    <xf:input bind="person_attribute13">
-      <xf:label>Emergency Contact Address</xf:label>
-      <xf:hint>Address of a person's emergency contact</xf:hint>
-    </xf:input>
-    <xf:input bind="age_in_years">
-      <xf:label>Age In Years</xf:label>
-      <xf:hint>Age in years</xf:hint>
-    </xf:input>
-    <xf:input bind="age_in_months">
-      <xf:label>Age In Months</xf:label>
-      <xf:hint>Age in months</xf:hint>
-    </xf:input>
-  </xf:group>
-</xf:xforms></Xform><Layout><Form id="0">
-  <Page Text="Page1" fontWeight="normal" fontSize="16px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, Sans-Serif" Binding="Page1" Width="900px" Height="2245px" backgroundColor="">
-    <Item WidgetType="GroupBox" Binding="LEFT0pxTOP0px" Left="0px" Top="0px" Width="880px" Height="66px" TabIndex="0" fontSize="16px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" borderStyle="solid" borderColor="rgb(187, 187, 187)">
-      <Item WidgetType="Label" Text="Patient Name" HelpText="Patient's name" Binding="LEFT0pxTOP0px" Left="0px" Top="0px" Width="100%" Height="20px" TabIndex="0" color="white" fontWeight="bold" fontSize="14px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" backgroundColor="rgb(143, 171, 199)" borderStyle="none" textAlign="center" HeaderLabel="true"/>
-      <Item WidgetType="Label" Text="Family Name" HelpText="The patient family name" Binding="family_name" Left="11px" Top="34px" Height="0px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Given Name" HelpText="The patient given name" Binding="given_name" Left="306px" Top="34px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Middle Name" HelpText="The patient middle name" Binding="middle_name" Left="589px" Top="34px" Height="1px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="TextBox" HelpText="The patient family name" Binding="family_name" Left="103px" Top="29px" Width="170px" Height="25px" TabIndex="1" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="TextBox" HelpText="The patient given name" Binding="given_name" Left="397px" Top="29px" Width="170px" Height="25px" TabIndex="2" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="TextBox" HelpText="The patient middle name" Binding="middle_name" Left="676px" Top="29px" Width="125px" Height="25px" TabIndex="3" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/></Item>
-    <Item WidgetType="GroupBox" Binding="LEFT0pxTOP489px" Left="0px" Top="489px" Width="880px" Height="75px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" borderStyle="solid" borderColor="rgb(187, 187, 187)">
-      <Item WidgetType="Label" Text="Encounter Information" HelpText="Header Label" Binding="LEFT0pxTOP489px" Left="0px" Top="0px" Width="100%" Height="20px" TabIndex="0" color="white" fontWeight="bold" fontSize="14px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" backgroundColor="rgb(143, 171, 199)" textAlign="center" HeaderLabel="true"/>
-      <Item WidgetType="Label" Text="Provider" HelpText="PROVIDER ID" Binding="form/encounter/encounter.provider_id" Left="601px" Top="38px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Location" HelpText="The patient's location" Binding="location_id" Left="318px" Top="38px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Date &amp; Time" HelpText="ENCOUNTER DATETIME" Binding="form/encounter/encounter.encounter_datetime" Left="18px" Top="38px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="DateTimeWidget" Binding="form/encounter/encounter.encounter_datetime" Left="111px" Top="36px" Width="166px" Height="25px" TabIndex="22" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="ListBox" HelpText="The patient's location" Binding="location_id" Left="382px" Top="32px" Width="180px" Height="25px" TabIndex="23" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="ListBox" HelpText="PROVIDER ID" Binding="form/encounter/encounter.provider_id" Left="663px" Top="32px" Width="180px" Height="25px" TabIndex="24" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/></Item>
-    <Item WidgetType="GroupBox" Binding="LEFT0pxTOP76px" Left="0px" Top="76px" Width="880px" Height="107px" TabIndex="0" fontSize="16px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" borderStyle="solid" borderColor="rgb(187, 187, 187)">
-      <Item WidgetType="Label" Text="Basic Information" HelpText="Birth date, sex, etc." Binding="LEFT0pxTOP76px" Left="0px" Top="0px" Width="100%" Height="20px" TabIndex="0" color="white" fontWeight="bold" fontSize="14px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" backgroundColor="rgb(143, 171, 199)" textAlign="center" HeaderLabel="true"/>
-      <Item WidgetType="Label" Text="Gender" HelpText="The patient's sex" Binding="gender" Left="12px" Top="30px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Birth Date" HelpText="The patient birth date" Binding="birth_date" Left="179px" Top="30px" Height="0px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Age" HelpText="Label" Binding="LEFT348pxTOP30px" Left="348px" Top="30px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Patient ID" HelpText="The patient identifier" Binding="identifier" Left="723px" Top="30px" Height="0px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Civil Status" HelpText="Marriage status of this person" Binding="person_attribute5" Left="511px" Top="30px" Height="0px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Months" HelpText="Label" Binding="LEFT436pxTOP80px" Left="436px" Top="80px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Years" HelpText="Label" Binding="LEFT367pxTOP80px" Left="367px" Top="80px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="RadioButton" Text="Male" HelpText="Male" Binding="M" ParentBinding="gender" Left="21px" Top="50px" TabIndex="4" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="RadioButton" Text="Female" HelpText="Female" Binding="F" ParentBinding="gender" Left="85px" Top="50px" TabIndex="5" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="DatePicker" HelpText="The patient birth date" Binding="birth_date" Left="197px" Top="50px" Width="114px" Height="25px" TabIndex="6" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" Id="birth-date"/>
-      <Item WidgetType="CheckBox" Text="Estimated" HelpText="Is the birth date estimated (i.e., not exact)?" Binding="LEFT554pxTOP30px" ParentBinding="birth_date_estimated" Left="194px" Top="76px" TabIndex="7" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" Id="birth-date-estimated"/>
-      <Item WidgetType="TextBox" HelpText="Age in years" Binding="age_in_years" Left="362px" Top="50px" Width="57px" Height="25px" TabIndex="8" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" Id="age-years"/>
-      <Item WidgetType="TextBox" HelpText="Age in months" Binding="age_in_months" Left="431px" Top="50px" Width="49px" Height="25px" TabIndex="9" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" Id="age-months"/>
-      <Item WidgetType="ListBox" HelpText="Marriage status of this person" Binding="person_attribute5" Left="536px" Top="50px" Width="158px" Height="25px" TabIndex="10" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="TextBox" HelpText="The patient identifier" Binding="identifier" Left="748px" Top="50px" Width="103px" Height="25px" TabIndex="11" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/></Item>
-    <Item WidgetType="GroupBox" Binding="LEFT0pxTOP193px" Left="0px" Top="193px" Width="880px" Height="161px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" borderStyle="solid" borderColor="rgb(187, 187, 187)">
-      <Item WidgetType="Label" Text="Contact Information" HelpText="Contact Information" Binding="LEFT0pxTOP193px" Left="0px" Top="0px" Width="100%" Height="20px" TabIndex="0" color="white" fontWeight="bold" fontSize="14px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" backgroundColor="rgb(143, 171, 199)" textAlign="center" HeaderLabel="true"/>
-      <Item WidgetType="Label" Text="Phone Number" HelpText="Label" Binding="LEFT491pxTOP126px" Left="536px" Top="126px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Province/State" HelpText="State/Province" Binding="person_address_state_province" Left="538px" Top="87px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="District/County" HelpText="County/District" Binding="person_address_county_district" Left="86px" Top="87px" Height="0px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Chief/Local Council" HelpText="Chief or local council name" Binding="person_attribute10" Left="64px" Top="49px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="City/Town/Village" HelpText="City/Village" Binding="person_address_city_village" Left="522px" Top="49px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Residence/Address/PO Box" HelpText="Address 1" Binding="person_address_address1" Left="19px" Top="126px" Height="0px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="TextBox" HelpText="Chief or local council name" Binding="person_attribute10" Left="193px" Top="42px" Width="200px" Height="25px" TabIndex="12" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="TextBox" HelpText="City/Village" Binding="person_address_city_village" Left="647px" Top="42px" Width="200px" Height="25px" TabIndex="13" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="TextBox" HelpText="County/District" Binding="person_address_county_district" Left="193px" Top="80px" Width="200px" Height="25px" TabIndex="14" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="TextBox" HelpText="State/Province" Binding="person_address_state_province" Left="647px" Top="80px" Width="200px" Height="25px" TabIndex="15" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="TextBox" HelpText="Address 1" Binding="person_address_address1" Left="193px" Top="119px" Width="200px" Height="25px" TabIndex="16" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="TextBox" HelpText="Phone number" Binding="person_attribute9" Left="647px" Top="121px" Width="200px" Height="25px" TabIndex="17" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/></Item>
-    <Item WidgetType="GroupBox" Binding="LEFT0pxTOP364px" Left="0px" Top="364px" Width="880px" Height="114px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" borderStyle="solid" borderColor="rgb(187, 187, 187)">
-      <Item WidgetType="Label" Text="Emergency Contact Information" HelpText="Emergency Contact Information" Binding="LEFT0pxTOP364px" Left="0px" Top="0px" Width="100%" Height="20px" TabIndex="0" color="white" fontWeight="bold" fontSize="14px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" backgroundColor="rgb(143, 171, 199)" borderStyle="none" textAlign="center" HeaderLabel="true"/>
-      <Item WidgetType="Label" Text="Emergency Contact Relationship" HelpText="Relationship of emergency contact to patient" Binding="person_attribute11" Left="431px" Top="39px" Height="25px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Emergency Contact Address" HelpText="Address of a person's emergency contact" Binding="person_attribute13" Left="457px" Top="78px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Emergency Contact Phone" HelpText="Phone number of a person's emergency contact" Binding="person_attribute12" Left="17px" Top="78px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="Label" Text="Emergency Contact Name" HelpText="Name of next of kin or an emergency contact" Binding="person_attribute4" Left="19px" Top="39px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="ListBox" HelpText="Relationship of emergency contact to patient" Binding="person_attribute11" Left="647px" Top="35px" Width="200px" Height="25px" TabIndex="19" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="TextBox" HelpText="Name of next of kin or an emergency contact" Binding="person_attribute4" Left="193px" Top="35px" Width="200px" Height="25px" TabIndex="18" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="TextBox" HelpText="Phone number of a person's emergency contact" Binding="person_attribute12" Left="193px" Top="72px" Width="200px" Height="25px" TabIndex="20" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-      <Item WidgetType="TextBox" HelpText="Address of a person's emergency contact" Binding="person_attribute13" Left="647px" Top="72px" Width="200px" Height="25px" TabIndex="21" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/></Item>
-    <Item WidgetType="Button" Text="Submit" HelpText="submit" Binding="submit" Left="0px" Top="581px" Width="70px" Height="30px" TabIndex="100" fontSize="14px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-    <Item WidgetType="Button" Text="Cancel" HelpText="cancel" Binding="cancel" Left="164px" Top="581px" Width="70px" Height="30px" TabIndex="101" fontSize="14px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/>
-  </Page>
-</Form></Layout><JavaScript><![CDATA[// Set up onchange event for age fields (years and months) to calculate an estimated birth date
+  <xf:select1 bind="person_attribute5"><xf:label>Civil Status</xf:label><xf:hint>Marriage status of this person</xf:hint><xf:item id="1057"><xf:label>NEVER MARRIED</xf:label><xf:value>1057</xf:value></xf:item><xf:item id="1060"><xf:label>LIVING WITH PARTNER</xf:label><xf:value>1060</xf:value></xf:item><xf:item id="5555"><xf:label>MARRIED</xf:label><xf:value>5555</xf:value></xf:item><xf:item id="1056"><xf:label>SEPARATED</xf:label><xf:value>1056</xf:value></xf:item><xf:item id="1058"><xf:label>DIVORCED</xf:label><xf:value>1058</xf:value></xf:item><xf:item id="1059"><xf:label>WIDOWED</xf:label><xf:value>1059</xf:value></xf:item></xf:select1><xf:input bind="person_attribute8"><xf:label>Hair Colour</xf:label><xf:hint>Hair colour</xf:hint></xf:input><xf:input bind="person_attribute9"><xf:label>Phone Number</xf:label><xf:hint>Phone number</xf:hint></xf:input><xf:input bind="person_attribute10"><xf:label>Chief/Local Council</xf:label><xf:hint>Chief or local council name</xf:hint></xf:input><xf:select1 bind="person_attribute11"><xf:label>Emergency Contact Relationship</xf:label><xf:hint>Relationship of emergency contact to patient</xf:hint><xf:item id="971"><xf:label>FATHER</xf:label><xf:value>971</xf:value></xf:item><xf:item id="970"><xf:label>MOTHER</xf:label><xf:value>970</xf:value></xf:item><xf:item id="972"><xf:label>SIBLING</xf:label><xf:value>972</xf:value></xf:item><xf:item id="973"><xf:label>GRANDPARENT</xf:label><xf:value>973</xf:value></xf:item><xf:item id="974"><xf:label>UNCLE</xf:label><xf:value>974</xf:value></xf:item><xf:item id="975"><xf:label>AUNT</xf:label><xf:value>975</xf:value></xf:item><xf:item id="5620"><xf:label>OTHER FAMILY MEMBER</xf:label><xf:value>5620</xf:value></xf:item></xf:select1><xf:input bind="person_attribute12"><xf:label>Emergency Contact Phone</xf:label><xf:hint>Phone number of a person's emergency contact</xf:hint></xf:input><xf:input bind="person_attribute13"><xf:label>Emergency Contact Address</xf:label><xf:hint>Address of a person's emergency contact</xf:hint></xf:input><xf:input bind="age_in_years"><xf:label>Age In Years</xf:label><xf:hint>Age in years</xf:hint></xf:input><xf:input bind="age_in_months"><xf:label>Age In Months</xf:label><xf:hint>Age in months</xf:hint></xf:input></xf:group>
+</xf:xforms></Xform><Layout><Form id="0"><Page Text="Page1" fontWeight="normal" fontSize="16px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, Sans-Serif" Binding="Page1" Width="900px" Height="1800px" backgroundColor=""><Item WidgetType="GroupBox" Binding="LEFT0pxTOP0px" Left="0px" Top="0px" Width="880px" Height="66px" TabIndex="0" fontSize="16px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" borderStyle="solid" borderColor="rgb(187, 187, 187)"><Item WidgetType="Label" Text="Patient Name" HelpText="Patient's name" Binding="LEFT0pxTOP0px" Left="0px" Top="0px" Width="100%" Height="20px" TabIndex="0" color="white" fontWeight="bold" fontSize="14px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" backgroundColor="rgb(143, 171, 199)" borderStyle="none" textAlign="center" HeaderLabel="true"/><Item WidgetType="Label" Text="Family Name" HelpText="The patient family name" Binding="family_name" Left="11px" Top="34px" Height="0px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Given Name" HelpText="The patient given name" Binding="given_name" Left="306px" Top="34px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Middle Name" HelpText="The patient middle name" Binding="middle_name" Left="589px" Top="34px" Height="1px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="TextBox" HelpText="The patient family name" Binding="family_name" Left="103px" Top="29px" Width="170px" Height="25px" TabIndex="1" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="TextBox" HelpText="The patient given name" Binding="given_name" Left="397px" Top="29px" Width="170px" Height="25px" TabIndex="2" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="TextBox" HelpText="The patient middle name" Binding="middle_name" Left="676px" Top="29px" Width="125px" Height="25px" TabIndex="3" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/></Item><Item WidgetType="GroupBox" Binding="LEFT0pxTOP489px" Left="0px" Top="489px" Width="880px" Height="75px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" borderStyle="solid" borderColor="rgb(187, 187, 187)"><Item WidgetType="Label" Text="Encounter Information" HelpText="Header Label" Binding="LEFT0pxTOP489px" Left="0px" Top="0px" Width="100%" Height="20px" TabIndex="0" color="white" fontWeight="bold" fontSize="14px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" backgroundColor="rgb(143, 171, 199)" textAlign="center" HeaderLabel="true"/><Item WidgetType="Label" Text="Date &amp; Time" HelpText="ENCOUNTER DATETIME" Binding="form/encounter/encounter.encounter_datetime" Left="18px" Top="38px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="DateTimeWidget" Binding="form/encounter/encounter.encounter_datetime" Left="111px" Top="36px" Width="166px" Height="25px" TabIndex="22" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="ListBox" HelpText="PROVIDER ID" Binding="form/encounter/encounter.provider_id" Left="647px" Top="32px" Width="200px" Height="25px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Location" HelpText="The patient's location" Binding="location_id" Left="310px" Top="38px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="ListBox" HelpText="The patient's location" Binding="location_id" Left="374px" Top="32px" Width="180px" Height="25px" TabIndex="23" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Provider" HelpText="PROVIDER ID" Binding="form/encounter/encounter.provider_id" Left="581px" Top="38px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/></Item><Item WidgetType="GroupBox" Binding="LEFT0pxTOP76px" Left="0px" Top="76px" Width="880px" Height="107px" TabIndex="0" fontSize="16px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" borderStyle="solid" borderColor="rgb(187, 187, 187)"><Item WidgetType="Label" Text="Basic Information" HelpText="Birth date, sex, etc." Binding="LEFT0pxTOP76px" Left="0px" Top="0px" Width="100%" Height="20px" TabIndex="0" color="white" fontWeight="bold" fontSize="14px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" backgroundColor="rgb(143, 171, 199)" textAlign="center" HeaderLabel="true"/><Item WidgetType="Label" Text="Gender" HelpText="The patient's sex" Binding="gender" Left="12px" Top="30px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Birth Date" HelpText="The patient birth date" Binding="birth_date" Left="179px" Top="30px" Height="0px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Age" HelpText="Label" Binding="LEFT348pxTOP30px" Left="348px" Top="30px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Patient ID" HelpText="The patient identifier" Binding="identifier" Left="723px" Top="30px" Height="0px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Civil Status" HelpText="Marriage status of this person" Binding="person_attribute5" Left="511px" Top="30px" Height="0px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Months" HelpText="Label" Binding="LEFT436pxTOP80px" Left="436px" Top="80px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Years" HelpText="Label" Binding="LEFT367pxTOP80px" Left="367px" Top="80px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="RadioButton" Text="Male" HelpText="Male" Binding="M" ParentBinding="gender" Left="21px" Top="50px" TabIndex="4" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="RadioButton" Text="Female" HelpText="Female" Binding="F" ParentBinding="gender" Left="85px" Top="50px" TabIndex="5" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="DatePicker" HelpText="The patient birth date" Binding="birth_date" Left="197px" Top="50px" Width="114px" Height="25px" TabIndex="6" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" Id="birth-date"/><Item WidgetType="CheckBox" Text="Estimated" HelpText="Is the birth date estimated (i.e., not exact)?" Binding="LEFT554pxTOP30px" ParentBinding="birth_date_estimated" Left="194px" Top="76px" TabIndex="7" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" Id="birth-date-estimated"/><Item WidgetType="TextBox" HelpText="Age in years" Binding="age_in_years" Left="362px" Top="50px" Width="57px" Height="25px" TabIndex="8" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" Id="age-years"/><Item WidgetType="TextBox" HelpText="Age in months" Binding="age_in_months" Left="431px" Top="50px" Width="49px" Height="25px" TabIndex="9" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" Id="age-months"/><Item WidgetType="ListBox" HelpText="Marriage status of this person" Binding="person_attribute5" Left="536px" Top="50px" Width="158px" Height="25px" TabIndex="10" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="TextBox" HelpText="The patient identifier" Binding="identifier" Left="748px" Top="50px" Width="103px" Height="25px" TabIndex="11" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/></Item><Item WidgetType="GroupBox" Binding="LEFT0pxTOP193px" Left="0px" Top="193px" Width="880px" Height="161px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" borderStyle="solid" borderColor="rgb(187, 187, 187)"><Item WidgetType="Label" Text="Contact Information" HelpText="Contact Information" Binding="LEFT0pxTOP193px" Left="0px" Top="0px" Width="100%" Height="20px" TabIndex="0" color="white" fontWeight="bold" fontSize="14px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" backgroundColor="rgb(143, 171, 199)" textAlign="center" HeaderLabel="true"/><Item WidgetType="Label" Text="Phone Number" HelpText="Label" Binding="LEFT491pxTOP126px" Left="536px" Top="126px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Province/State" HelpText="State/Province" Binding="person_address_state_province" Left="538px" Top="87px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="District/County" HelpText="County/District" Binding="person_address_county_district" Left="86px" Top="87px" Height="0px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Chief/Local Council" HelpText="Chief or local council name" Binding="person_attribute10" Left="64px" Top="49px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="City/Town/Village" HelpText="City/Village" Binding="person_address_city_village" Left="522px" Top="49px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Residence/Address/PO Box" HelpText="Address 1" Binding="person_address_address1" Left="19px" Top="126px" Height="0px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="TextBox" HelpText="Chief or local council name" Binding="person_attribute10" Left="193px" Top="42px" Width="200px" Height="25px" TabIndex="12" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="TextBox" HelpText="City/Village" Binding="person_address_city_village" Left="647px" Top="42px" Width="200px" Height="25px" TabIndex="13" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="TextBox" HelpText="County/District" Binding="person_address_county_district" Left="193px" Top="80px" Width="200px" Height="25px" TabIndex="14" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="TextBox" HelpText="State/Province" Binding="person_address_state_province" Left="647px" Top="80px" Width="200px" Height="25px" TabIndex="15" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="TextBox" HelpText="Address 1" Binding="person_address_address1" Left="193px" Top="119px" Width="200px" Height="25px" TabIndex="16" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="TextBox" HelpText="Phone number" Binding="person_attribute9" Left="647px" Top="121px" Width="200px" Height="25px" TabIndex="17" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/></Item><Item WidgetType="GroupBox" Binding="LEFT0pxTOP364px" Left="0px" Top="364px" Width="880px" Height="114px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" borderStyle="solid" borderColor="rgb(187, 187, 187)"><Item WidgetType="Label" Text="Emergency Contact Information" HelpText="Emergency Contact Information" Binding="LEFT0pxTOP364px" Left="0px" Top="0px" Width="100%" Height="20px" TabIndex="0" color="white" fontWeight="bold" fontSize="14px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif" backgroundColor="rgb(143, 171, 199)" borderStyle="none" textAlign="center" HeaderLabel="true"/><Item WidgetType="Label" Text="Emergency Contact Relationship" HelpText="Relationship of emergency contact to patient" Binding="person_attribute11" Left="431px" Top="39px" Height="25px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Emergency Contact Address" HelpText="Address of a person's emergency contact" Binding="person_attribute13" Left="457px" Top="78px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Emergency Contact Phone" HelpText="Phone number of a person's emergency contact" Binding="person_attribute12" Left="17px" Top="78px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Label" Text="Emergency Contact Name" HelpText="Name of next of kin or an emergency contact" Binding="person_attribute4" Left="19px" Top="39px" TabIndex="0" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="ListBox" HelpText="Relationship of emergency contact to patient" Binding="person_attribute11" Left="647px" Top="35px" Width="200px" Height="25px" TabIndex="19" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="TextBox" HelpText="Name of next of kin or an emergency contact" Binding="person_attribute4" Left="193px" Top="35px" Width="200px" Height="25px" TabIndex="18" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="TextBox" HelpText="Phone number of a person's emergency contact" Binding="person_attribute12" Left="193px" Top="72px" Width="200px" Height="25px" TabIndex="20" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="TextBox" HelpText="Address of a person's emergency contact" Binding="person_attribute13" Left="647px" Top="72px" Width="200px" Height="25px" TabIndex="21" fontSize="12px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/></Item><Item WidgetType="Button" Text="Submit" HelpText="submit" Binding="submit" Left="0px" Top="581px" Width="70px" Height="30px" TabIndex="100" fontSize="14px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/><Item WidgetType="Button" Text="Cancel" HelpText="cancel" Binding="cancel" Left="164px" Top="581px" Width="70px" Height="30px" TabIndex="101" fontSize="14px" fontFamily="Verdana, 'Lucida Grande', 'Trebuchet MS', Arial, sans-serif"/></Page></Form></Layout><JavaScript><![CDATA[// Set up onchange event for age fields (years and months) to calculate an estimated birth date
 document.getElementById('age-years').onchange = function() {
     updateBirthDateFromAge();
 }
@@ -587,369 +345,4 @@ function updateBirthDateFromAge() {
         estimatedDate.getFullYear();
     document.getElementById('birth-date').value = strDate;
     document.getElementById('birth-date-estimated').childNodes[0].checked = true;
-}]]></JavaScript><Language><LanguageText lang="en">
-  <xform id="0">
-    <text xpath="xforms/model/instance/patient[@name]" value="Patient"/>
-    <text xpath="xforms/group[@id='1']/label" value="Page1"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='family_name']/label" value="Family Name"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='family_name']/hint" value="The patient family name"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='middle_name']/label" value="Middle Name"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='middle_name']/hint" value="The patient middle name"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='given_name']/label" value="Given Name"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='given_name']/hint" value="The patient given name"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='birth_date']/label" value="Birth Date"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='birth_date']/hint" value="The patient birth date"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='birth_date_estimated']/label" value="Birth Date Estimated"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='birth_date_estimated']/hint" value="Is the patient birth date estimated?"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='gender']/label" value="Gender"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='gender']/hint" value="The patient's sex"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='gender']/item[@id='M']/label" value="Male"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='gender']/item[@id='F']/label" value="Female"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='degree']/label" value="Degree"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='degree']/hint" value="The patient name degree"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='family_name2']/label" value="Family Name 2"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='family_name2']/hint" value="The patient second family name"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='family_name_prefix']/label" value="Family Name Prefix"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='family_name_prefix']/hint" value="The patient family name prefix"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='family_name_suffix']/label" value="Family Name Suffix"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='family_name_suffix']/hint" value="The patient family name suffix"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='prefix']/label" value="Prefix"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='prefix']/hint" value="The patient name prefix"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='location_id']/label" value="Location"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='location_id']/hint" value="The patient's location"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='location_id']/item[@id='3']/label" value="Kijabe"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='location_id']/item[@id='2']/label" value="Naivasha"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='location_id']/item[@id='1']/label" value="Unknown Location"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='patient_identifier_type_id']/label" value="Identifier Type"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='patient_identifier_type_id']/hint" value="The patient's identifier type"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='patient_identifier_type_id']/item[@id='2']/label" value="Old Identification Number"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='patient_identifier_type_id']/item[@id='1']/label" value="OpenMRS Identification Number"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute2']/label" value="Birthplace"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute2']/hint" value="Location of persons birth"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute3']/label" value="Citizenship"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute3']/hint" value="Country of which this person is a member"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/label" value="Civil Status"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/hint" value="Marriage status of this person"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/item[@id='1057']/label" value="NEVER MARRIED"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/item[@id='1060']/label" value="LIVING WITH PARTNER"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/item[@id='5555']/label" value="MARRIED"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/item[@id='1056']/label" value="SEPARATED"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/item[@id='1058']/label" value="DIVORCED"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/item[@id='1059']/label" value="WIDOWED"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute7']/label" value="Health Center"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute7']/hint" value="Specific Location of this person's home health center."/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute7']/item[@id='3']/label" value="Kijabe [3]"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute7']/item[@id='2']/label" value="Naivasha [2]"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute7']/item[@id='1']/label" value="Unknown Location [1]"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute6']/label" value="Health District"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute6']/hint" value="District/region in which this patient' home health center resides"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute4']/label" value="Emergency Contact Name"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute4']/hint" value="Name of next of kin or an emergency contact"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute1']/label" value="Race"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute1']/hint" value="Group of persons related by common descent or heredity"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute8']/label" value="Hair Colour"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute8']/hint" value="Hair colour"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_address_address1']/label" value="Address 1"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_address_address2']/label" value="Address 2"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_address_city_village']/label" value="City/Village"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_address_state_province']/label" value="State/Province"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_address_postal_code']/label" value="Postal Code"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_address_country']/label" value="Country"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_address_latitude']/label" value="Latitude"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_address_longitude']/label" value="Longitude"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_address_county_district']/label" value="County/District"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_address_neighborhood_cell']/label" value="Neighborhood Cell"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_address_region']/label" value="Region"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_address_subregion']/label" value="Sub Region"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_address_township_division']/label" value="Township/Division"/>
-    <text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/label" value="Other dentifiers"/>
-    <text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/input[@bind='other_identifier']/label" value="Other Identifier"/>
-    <text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/input[@bind='other_identifier']/hint" value="The patient's other identifier value"/>
-    <text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_type_id']/label" value="Identifier Type"/>
-    <text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_type_id']/hint" value="The patient's other identifier type"/>
-    <text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_type_id']/item[@id='2']/label" value="Old Identification Number"/>
-    <text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_type_id']/item[@id='1']/label" value="OpenMRS Identification Number"/>
-    <text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_location_id']/label" value="Identifier Location"/>
-    <text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_location_id']/hint" value="The patient's other identifier location"/>
-    <text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_location_id']/item[@id='3']/label" value="Kijabe [3]"/>
-    <text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_location_id']/item[@id='2']/label" value="Naivasha [2]"/>
-    <text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_location_id']/item[@id='1']/label" value="Unknown Location [1]"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute9']/label" value="Phone Number"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute9']/hint" value="Phone number"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute10']/label" value="Chief/Local Council"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute10']/hint" value="Chief or local council name"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='encounter.encounter_datetime']/label" value="ENCOUNTER DATETIME"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='encounter.provider_id']/label" value="PROVIDER ID"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='encounter.provider_id']/item[@id='2']/label" value="Bob Nurse [100-2]"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='encounter.provider_id']/item[@id='1']/label" value="Doctor Anne [100-1]"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='encounter.provider_id']/item[@id='3']/label" value="Beatrice Ondoka [100-3]"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='identifier']/label" value="Identifier"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='identifier']/hint" value="The patient identifier"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='patient_id']/label" value="Patient ID"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='patient_id']/hint" value="The patient ID"/>
-    <text xpath="xforms/group[@id='1']/group[@id='form/problem_list/problem_added']/label" value="PROBLEM ADDED"/>
-    <text xpath="xforms/group[@id='1']/group[@id='form/problem_list/problem_added']/hint" value="Diagnosis or problem noted on a patient encounter."/>
-    <text xpath="xforms/group[@id='1']/group[@id='form/problem_list/problem_added']/repeat/input[@bind='problem_list_problem_added_value']/label" value="problem_added value"/>
-    <text xpath="xforms/group[@id='1']/group[@id='form/problem_list/problem_resolved']/label" value="PROBLEM RESOLVED"/>
-    <text xpath="xforms/group[@id='1']/group[@id='form/problem_list/problem_resolved']/hint" value="Diagnosis or problem noted on a patient encounter as being resolved."/>
-    <text xpath="xforms/group[@id='1']/group[@id='form/problem_list/problem_resolved']/repeat/input[@bind='problem_list_problem_resolved_value']/label" value="problem_resolved value"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/label" value="Emergency Contact Relationship"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/hint" value="Relationship of emergency contact to patient"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/item[@id='971']/label" value="FATHER"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/item[@id='970']/label" value="MOTHER"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/item[@id='972']/label" value="SIBLING"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/item[@id='973']/label" value="GRANDPARENT"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/item[@id='974']/label" value="UNCLE"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/item[@id='975']/label" value="AUNT"/>
-    <text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/item[@id='5620']/label" value="OTHER FAMILY MEMBER"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute12']/label" value="Emergency Contact Phone"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute12']/hint" value="Phone number of a person's emergency contact"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute13']/label" value="Emergency Contact Address"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='person_attribute13']/hint" value="Address of a person's emergency contact"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='age_in_years']/label" value="Age In Years"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='age_in_years']/hint" value="Age in years"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='age_in_months']/label" value="Age In Months"/>
-    <text xpath="xforms/group[@id='1']/input[@bind='age_in_months']/hint" value="Age in months"/>
-    <text xpath="xforms/model/bind[@id='encounter.encounter_datetime'][@message]" value="Encounter date cannot be after today"/>
-  </xform>
-  <Form id="0">
-    <text xpath="Form/Page[@Binding='Page1'][@Text]" value="Page1"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox'][@Top]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox'][@Left]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox'][@Width]" value="880px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='Label'][@Text]" value="Patient Name"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='Label'][@HelpText]" value="Patient's name"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='Label'][@Top]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='Label'][@Left]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='Label'][@Width]" value="100%"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='Label'][@Text]" value="Family Name"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='Label'][@HelpText]" value="The patient family name"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='Label'][@Top]" value="34px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='Label'][@Left]" value="11px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='Label'][@Text]" value="Given Name"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='Label'][@HelpText]" value="The patient given name"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='Label'][@Top]" value="34px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='Label'][@Left]" value="306px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='Label'][@Text]" value="Middle Name"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='Label'][@HelpText]" value="The patient middle name"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='Label'][@Top]" value="34px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='Label'][@Left]" value="589px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='TextBox'][@HelpText]" value="The patient family name"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='TextBox'][@Top]" value="29px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='TextBox'][@Left]" value="103px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='TextBox'][@Width]" value="170px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='TextBox'][@HelpText]" value="The patient given name"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='TextBox'][@Top]" value="29px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='TextBox'][@Left]" value="397px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='TextBox'][@Width]" value="170px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='TextBox'][@HelpText]" value="The patient middle name"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='TextBox'][@Top]" value="29px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='TextBox'][@Left]" value="676px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='TextBox'][@Width]" value="125px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox'][@Top]" value="489px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox'][@Left]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox'][@Width]" value="880px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='Label'][@Text]" value="Encounter Information"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='Label'][@HelpText]" value="Header Label"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='Label'][@Top]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='Label'][@Left]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='Label'][@Width]" value="100%"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='Label'][@Text]" value="Provider"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='Label'][@HelpText]" value="PROVIDER ID"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='Label'][@Top]" value="38px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='Label'][@Left]" value="601px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='Label'][@Text]" value="Location"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='Label'][@HelpText]" value="The patient's location"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='Label'][@Top]" value="38px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='Label'][@Left]" value="318px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.encounter_datetime' and @WidgetType='Label'][@Text]" value="Date &amp; Time"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.encounter_datetime' and @WidgetType='Label'][@HelpText]" value="ENCOUNTER DATETIME"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.encounter_datetime' and @WidgetType='Label'][@Top]" value="38px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.encounter_datetime' and @WidgetType='Label'][@Left]" value="18px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.encounter_datetime' and @WidgetType='DateTimeWidget'][@Top]" value="36px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.encounter_datetime' and @WidgetType='DateTimeWidget'][@Left]" value="111px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.encounter_datetime' and @WidgetType='DateTimeWidget'][@Width]" value="166px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='ListBox'][@HelpText]" value="The patient's location"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='ListBox'][@Top]" value="32px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='ListBox'][@Left]" value="382px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='ListBox'][@Width]" value="180px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='ListBox'][@HelpText]" value="PROVIDER ID"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='ListBox'][@Top]" value="32px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='ListBox'][@Left]" value="663px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='ListBox'][@Width]" value="180px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox'][@Top]" value="76px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox'][@Left]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox'][@Width]" value="880px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='Label'][@Text]" value="Basic Information"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='Label'][@HelpText]" value="Birth date, sex, etc."/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='Label'][@Top]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='Label'][@Left]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='Label'][@Width]" value="100%"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='gender' and @WidgetType='Label'][@Text]" value="Gender"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='gender' and @WidgetType='Label'][@HelpText]" value="The patient's sex"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='gender' and @WidgetType='Label'][@Top]" value="30px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='gender' and @WidgetType='Label'][@Left]" value="12px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='Label'][@Text]" value="Birth Date"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='Label'][@HelpText]" value="The patient birth date"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='Label'][@Top]" value="30px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='Label'][@Left]" value="179px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT348pxTOP30px' and @WidgetType='Label'][@Text]" value="Age"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT348pxTOP30px' and @WidgetType='Label'][@HelpText]" value="Label"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT348pxTOP30px' and @WidgetType='Label'][@Top]" value="30px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT348pxTOP30px' and @WidgetType='Label'][@Left]" value="348px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='Label'][@Text]" value="Patient ID"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='Label'][@HelpText]" value="The patient identifier"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='Label'][@Top]" value="30px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='Label'][@Left]" value="723px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='Label'][@Text]" value="Civil Status"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='Label'][@HelpText]" value="Marriage status of this person"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='Label'][@Top]" value="30px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='Label'][@Left]" value="511px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT436pxTOP80px' and @WidgetType='Label'][@Text]" value="Months"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT436pxTOP80px' and @WidgetType='Label'][@HelpText]" value="Label"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT436pxTOP80px' and @WidgetType='Label'][@Top]" value="80px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT436pxTOP80px' and @WidgetType='Label'][@Left]" value="436px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT367pxTOP80px' and @WidgetType='Label'][@Text]" value="Years"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT367pxTOP80px' and @WidgetType='Label'][@HelpText]" value="Label"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT367pxTOP80px' and @WidgetType='Label'][@Top]" value="80px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT367pxTOP80px' and @WidgetType='Label'][@Left]" value="367px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='M' and @ParentBinding='gender' and @WidgetType='RadioButton'][@Text]" value="Male"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='M' and @ParentBinding='gender' and @WidgetType='RadioButton'][@HelpText]" value="Male"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='M' and @ParentBinding='gender' and @WidgetType='RadioButton'][@Top]" value="50px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='M' and @ParentBinding='gender' and @WidgetType='RadioButton'][@Left]" value="21px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='F' and @ParentBinding='gender' and @WidgetType='RadioButton'][@Text]" value="Female"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='F' and @ParentBinding='gender' and @WidgetType='RadioButton'][@HelpText]" value="Female"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='F' and @ParentBinding='gender' and @WidgetType='RadioButton'][@Top]" value="50px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='F' and @ParentBinding='gender' and @WidgetType='RadioButton'][@Left]" value="85px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='DatePicker'][@HelpText]" value="The patient birth date"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='DatePicker'][@Top]" value="50px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='DatePicker'][@Left]" value="197px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='DatePicker'][@Width]" value="114px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT554pxTOP30px' and @ParentBinding='birth_date_estimated' and @WidgetType='CheckBox'][@Text]" value="Estimated"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT554pxTOP30px' and @ParentBinding='birth_date_estimated' and @WidgetType='CheckBox'][@HelpText]" value="Is the birth date estimated (i.e., not exact)?"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT554pxTOP30px' and @ParentBinding='birth_date_estimated' and @WidgetType='CheckBox'][@Top]" value="76px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT554pxTOP30px' and @ParentBinding='birth_date_estimated' and @WidgetType='CheckBox'][@Left]" value="194px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_years' and @WidgetType='TextBox'][@HelpText]" value="Age in years"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_years' and @WidgetType='TextBox'][@Top]" value="50px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_years' and @WidgetType='TextBox'][@Left]" value="362px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_years' and @WidgetType='TextBox'][@Width]" value="57px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_months' and @WidgetType='TextBox'][@HelpText]" value="Age in months"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_months' and @WidgetType='TextBox'][@Top]" value="50px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_months' and @WidgetType='TextBox'][@Left]" value="431px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_months' and @WidgetType='TextBox'][@Width]" value="49px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='ListBox'][@HelpText]" value="Marriage status of this person"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='ListBox'][@Top]" value="50px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='ListBox'][@Left]" value="536px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='ListBox'][@Width]" value="158px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='TextBox'][@HelpText]" value="The patient identifier"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='TextBox'][@Top]" value="50px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='TextBox'][@Left]" value="748px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='TextBox'][@Width]" value="103px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox'][@Top]" value="193px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox'][@Left]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox'][@Width]" value="880px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='Label'][@Text]" value="Contact Information"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='Label'][@HelpText]" value="Contact Information"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='Label'][@Top]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='Label'][@Left]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='Label'][@Width]" value="100%"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT491pxTOP126px' and @WidgetType='Label'][@Text]" value="Phone Number"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT491pxTOP126px' and @WidgetType='Label'][@HelpText]" value="Label"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT491pxTOP126px' and @WidgetType='Label'][@Top]" value="126px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT491pxTOP126px' and @WidgetType='Label'][@Left]" value="536px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='Label'][@Text]" value="Province/State"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='Label'][@HelpText]" value="State/Province"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='Label'][@Top]" value="87px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='Label'][@Left]" value="538px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='Label'][@Text]" value="District/County"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='Label'][@HelpText]" value="County/District"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='Label'][@Top]" value="87px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='Label'][@Left]" value="86px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='Label'][@Text]" value="Chief/Local Council"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='Label'][@HelpText]" value="Chief or local council name"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='Label'][@Top]" value="49px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='Label'][@Left]" value="64px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='Label'][@Text]" value="City/Town/Village"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='Label'][@HelpText]" value="City/Village"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='Label'][@Top]" value="49px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='Label'][@Left]" value="522px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='Label'][@Text]" value="Residence/Address/PO Box"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='Label'][@HelpText]" value="Address 1"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='Label'][@Top]" value="126px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='Label'][@Left]" value="19px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='TextBox'][@HelpText]" value="Chief or local council name"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='TextBox'][@Top]" value="42px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='TextBox'][@Left]" value="193px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='TextBox'][@Width]" value="200px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='TextBox'][@HelpText]" value="City/Village"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='TextBox'][@Top]" value="42px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='TextBox'][@Left]" value="647px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='TextBox'][@Width]" value="200px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='TextBox'][@HelpText]" value="County/District"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='TextBox'][@Top]" value="80px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='TextBox'][@Left]" value="193px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='TextBox'][@Width]" value="200px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='TextBox'][@HelpText]" value="State/Province"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='TextBox'][@Top]" value="80px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='TextBox'][@Left]" value="647px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='TextBox'][@Width]" value="200px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='TextBox'][@HelpText]" value="Address 1"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='TextBox'][@Top]" value="119px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='TextBox'][@Left]" value="193px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='TextBox'][@Width]" value="200px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute9' and @WidgetType='TextBox'][@HelpText]" value="Phone number"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute9' and @WidgetType='TextBox'][@Top]" value="121px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute9' and @WidgetType='TextBox'][@Left]" value="647px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute9' and @WidgetType='TextBox'][@Width]" value="200px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox'][@Top]" value="364px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox'][@Left]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox'][@Width]" value="880px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='Label'][@Text]" value="Emergency Contact Information"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='Label'][@HelpText]" value="Emergency Contact Information"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='Label'][@Top]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='Label'][@Left]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='Label'][@Width]" value="100%"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='Label'][@Text]" value="Emergency Contact Relationship"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='Label'][@HelpText]" value="Relationship of emergency contact to patient"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='Label'][@Top]" value="39px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='Label'][@Left]" value="431px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='Label'][@Text]" value="Emergency Contact Address"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='Label'][@HelpText]" value="Address of a person's emergency contact"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='Label'][@Top]" value="78px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='Label'][@Left]" value="457px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='Label'][@Text]" value="Emergency Contact Phone"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='Label'][@HelpText]" value="Phone number of a person's emergency contact"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='Label'][@Top]" value="78px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='Label'][@Left]" value="17px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='Label'][@Text]" value="Emergency Contact Name"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='Label'][@HelpText]" value="Name of next of kin or an emergency contact"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='Label'][@Top]" value="39px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='Label'][@Left]" value="19px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='ListBox'][@HelpText]" value="Relationship of emergency contact to patient"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='ListBox'][@Top]" value="35px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='ListBox'][@Left]" value="647px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='ListBox'][@Width]" value="200px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='TextBox'][@HelpText]" value="Name of next of kin or an emergency contact"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='TextBox'][@Top]" value="35px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='TextBox'][@Left]" value="193px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='TextBox'][@Width]" value="200px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='TextBox'][@HelpText]" value="Phone number of a person's emergency contact"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='TextBox'][@Top]" value="72px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='TextBox'][@Left]" value="193px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='TextBox'][@Width]" value="200px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='TextBox'][@HelpText]" value="Address of a person's emergency contact"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='TextBox'][@Top]" value="72px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='TextBox'][@Left]" value="647px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='TextBox'][@Width]" value="200px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='submit' and @WidgetType='Button'][@Text]" value="Submit"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='submit' and @WidgetType='Button'][@HelpText]" value="submit"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='submit' and @WidgetType='Button'][@Top]" value="581px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='submit' and @WidgetType='Button'][@Left]" value="0px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='submit' and @WidgetType='Button'][@Width]" value="70px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='cancel' and @WidgetType='Button'][@Text]" value="Cancel"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='cancel' and @WidgetType='Button'][@HelpText]" value="cancel"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='cancel' and @WidgetType='Button'][@Top]" value="581px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='cancel' and @WidgetType='Button'][@Left]" value="164px"/>
-    <text xpath="Form/Page[@Binding='Page1']/Item[@Binding='cancel' and @WidgetType='Button'][@Width]" value="70px"/>
-  </Form>
-</LanguageText></Language></PurcForm>
+}]]></JavaScript><Language><LanguageText lang="en"><xform id="0"><text xpath="xforms/model/instance/patient[@name]" value="Patient"/><text xpath="xforms/group[@id='1']/label" value="Page1"/><text xpath="xforms/group[@id='1']/input[@bind='family_name']/label" value="Family Name"/><text xpath="xforms/group[@id='1']/input[@bind='family_name']/hint" value="The patient family name"/><text xpath="xforms/group[@id='1']/input[@bind='middle_name']/label" value="Middle Name"/><text xpath="xforms/group[@id='1']/input[@bind='middle_name']/hint" value="The patient middle name"/><text xpath="xforms/group[@id='1']/input[@bind='given_name']/label" value="Given Name"/><text xpath="xforms/group[@id='1']/input[@bind='given_name']/hint" value="The patient given name"/><text xpath="xforms/group[@id='1']/input[@bind='birth_date']/label" value="Birth Date"/><text xpath="xforms/group[@id='1']/input[@bind='birth_date']/hint" value="The patient birth date"/><text xpath="xforms/group[@id='1']/input[@bind='birth_date_estimated']/label" value="Birth Date Estimated"/><text xpath="xforms/group[@id='1']/input[@bind='birth_date_estimated']/hint" value="Is the patient birth date estimated?"/><text xpath="xforms/group[@id='1']/select1[@bind='gender']/label" value="Gender"/><text xpath="xforms/group[@id='1']/select1[@bind='gender']/hint" value="The patient's sex"/><text xpath="xforms/group[@id='1']/select1[@bind='gender']/item[@id='M']/label" value="Male"/><text xpath="xforms/group[@id='1']/select1[@bind='gender']/item[@id='F']/label" value="Female"/><text xpath="xforms/group[@id='1']/input[@bind='degree']/label" value="Degree"/><text xpath="xforms/group[@id='1']/input[@bind='degree']/hint" value="The patient name degree"/><text xpath="xforms/group[@id='1']/input[@bind='family_name2']/label" value="Family Name 2"/><text xpath="xforms/group[@id='1']/input[@bind='family_name2']/hint" value="The patient second family name"/><text xpath="xforms/group[@id='1']/input[@bind='family_name_prefix']/label" value="Family Name Prefix"/><text xpath="xforms/group[@id='1']/input[@bind='family_name_prefix']/hint" value="The patient family name prefix"/><text xpath="xforms/group[@id='1']/input[@bind='family_name_suffix']/label" value="Family Name Suffix"/><text xpath="xforms/group[@id='1']/input[@bind='family_name_suffix']/hint" value="The patient family name suffix"/><text xpath="xforms/group[@id='1']/input[@bind='prefix']/label" value="Prefix"/><text xpath="xforms/group[@id='1']/input[@bind='prefix']/hint" value="The patient name prefix"/><text xpath="xforms/group[@id='1']/select1[@bind='location_id']/label" value="Location"/><text xpath="xforms/group[@id='1']/select1[@bind='location_id']/hint" value="The patient's location"/><text xpath="xforms/group[@id='1']/select1[@bind='location_id']/item[@id='1']/label" value="Unknown Location"/><text xpath="xforms/group[@id='1']/select1[@bind='patient_identifier_type_id']/label" value="Identifier Type"/><text xpath="xforms/group[@id='1']/select1[@bind='patient_identifier_type_id']/hint" value="The patient's identifier type"/><text xpath="xforms/group[@id='1']/select1[@bind='patient_identifier_type_id']/item[@id='2']/label" value="Old Identification Number"/><text xpath="xforms/group[@id='1']/select1[@bind='patient_identifier_type_id']/item[@id='1']/label" value="OpenMRS Identification Number"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute2']/label" value="Birthplace"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute2']/hint" value="Location of persons birth"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute3']/label" value="Citizenship"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute3']/hint" value="Country of which this person is a member"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute7']/label" value="Health Center"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute7']/hint" value="Specific Location of this person's home health center."/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute7']/item[@id='1']/label" value="Unknown Location [1]"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute7']/item[@id='3']/label" value="Kijabe [3]"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute7']/item[@id='2']/label" value="Naivasha [2]"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute6']/label" value="Health District"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute6']/hint" value="District/region in which this patient' home health center resides"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute4']/label" value="Emergency Contact Name"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute4']/hint" value="Name of next of kin or an emergency contact"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute1']/label" value="Race"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute1']/hint" value="Group of persons related by common descent or heredity"/><text xpath="xforms/group[@id='1']/input[@bind='person_address_address1']/label" value="Address 1"/><text xpath="xforms/group[@id='1']/input[@bind='person_address_address2']/label" value="Address 2"/><text xpath="xforms/group[@id='1']/input[@bind='person_address_city_village']/label" value="City/Village"/><text xpath="xforms/group[@id='1']/input[@bind='person_address_state_province']/label" value="State/Province"/><text xpath="xforms/group[@id='1']/input[@bind='person_address_postal_code']/label" value="Postal Code"/><text xpath="xforms/group[@id='1']/input[@bind='person_address_country']/label" value="Country"/><text xpath="xforms/group[@id='1']/input[@bind='person_address_latitude']/label" value="Latitude"/><text xpath="xforms/group[@id='1']/input[@bind='person_address_longitude']/label" value="Longitude"/><text xpath="xforms/group[@id='1']/input[@bind='person_address_county_district']/label" value="County/District"/><text xpath="xforms/group[@id='1']/input[@bind='person_address_neighborhood_cell']/label" value="Neighborhood Cell"/><text xpath="xforms/group[@id='1']/input[@bind='person_address_region']/label" value="Region"/><text xpath="xforms/group[@id='1']/input[@bind='person_address_subregion']/label" value="Sub Region"/><text xpath="xforms/group[@id='1']/input[@bind='person_address_township_division']/label" value="Township/Division"/><text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/label" value="Other dentifiers"/><text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/input[@bind='other_identifier']/label" value="Other Identifier"/><text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/input[@bind='other_identifier']/hint" value="The patient's other identifier value"/><text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_type_id']/label" value="Identifier Type"/><text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_type_id']/hint" value="The patient's other identifier type"/><text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_type_id']/item[@id='2']/label" value="Old Identification Number"/><text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_type_id']/item[@id='1']/label" value="OpenMRS Identification Number"/><text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_location_id']/label" value="Identifier Location"/><text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_location_id']/hint" value="The patient's other identifier location"/><text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_location_id']/item[@id='1']/label" value="Unknown Location [1]"/><text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_location_id']/item[@id='3']/label" value="Kijabe [3]"/><text xpath="xforms/group[@id='1']/group[@id='other_identifiers']/repeat/select1[@bind='other_identifier_location_id']/item[@id='2']/label" value="Naivasha [2]"/><text xpath="xforms/group[@id='1']/input[@bind='identifier']/label" value="Identifier"/><text xpath="xforms/group[@id='1']/input[@bind='identifier']/hint" value="The patient identifier"/><text xpath="xforms/group[@id='1']/input[@bind='patient_id']/label" value="Patient ID"/><text xpath="xforms/group[@id='1']/input[@bind='patient_id']/hint" value="The patient ID"/><text xpath="xforms/group[@id='1']/input[@bind='encounter.encounter_datetime']/label" value="ENCOUNTER DATETIME"/><text xpath="xforms/group[@id='1']/select1[@bind='encounter.provider_id']/label" value="PROVIDER ID"/><text xpath="xforms/group[@id='1']/select1[@bind='encounter.provider_id']/item[@id='1']/label" value="Daniel Shorten [4-2-1]"/><text xpath="xforms/group[@id='1']/select1[@bind='encounter.provider_id']/item[@id='2']/label" value="Wesley Brown [3-4-1]"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/label" value="Civil Status"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/hint" value="Marriage status of this person"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/item[@id='1057']/label" value="NEVER MARRIED"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/item[@id='1060']/label" value="LIVING WITH PARTNER"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/item[@id='5555']/label" value="MARRIED"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/item[@id='1056']/label" value="SEPARATED"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/item[@id='1058']/label" value="DIVORCED"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute5']/item[@id='1059']/label" value="WIDOWED"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute8']/label" value="Hair Colour"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute8']/hint" value="Hair colour"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute9']/label" value="Phone Number"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute9']/hint" value="Phone number"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute10']/label" value="Chief/Local Council"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute10']/hint" value="Chief or local council name"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/label" value="Emergency Contact Relationship"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/hint" value="Relationship of emergency contact to patient"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/item[@id='971']/label" value="FATHER"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/item[@id='970']/label" value="MOTHER"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/item[@id='972']/label" value="SIBLING"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/item[@id='973']/label" value="GRANDPARENT"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/item[@id='974']/label" value="UNCLE"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/item[@id='975']/label" value="AUNT"/><text xpath="xforms/group[@id='1']/select1[@bind='person_attribute11']/item[@id='5620']/label" value="OTHER FAMILY MEMBER"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute12']/label" value="Emergency Contact Phone"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute12']/hint" value="Phone number of a person's emergency contact"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute13']/label" value="Emergency Contact Address"/><text xpath="xforms/group[@id='1']/input[@bind='person_attribute13']/hint" value="Address of a person's emergency contact"/><text xpath="xforms/group[@id='1']/input[@bind='age_in_years']/label" value="Age In Years"/><text xpath="xforms/group[@id='1']/input[@bind='age_in_years']/hint" value="Age in years"/><text xpath="xforms/group[@id='1']/input[@bind='age_in_months']/label" value="Age In Months"/><text xpath="xforms/group[@id='1']/input[@bind='age_in_months']/hint" value="Age in months"/><text xpath="xforms/model/bind[@id='encounter.encounter_datetime'][@message]" value="Encounter date cannot be after today"/></xform><Form id="0"><text xpath="Form/Page[@Binding='Page1'][@Text]" value="Page1"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox'][@Top]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox'][@Left]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox'][@Width]" value="880px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='Label'][@Text]" value="Patient Name"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='Label'][@HelpText]" value="Patient's name"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='Label'][@Top]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='Label'][@Left]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='Label'][@Width]" value="100%"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='Label'][@Text]" value="Family Name"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='Label'][@HelpText]" value="The patient family name"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='Label'][@Top]" value="34px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='Label'][@Left]" value="11px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='Label'][@Text]" value="Given Name"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='Label'][@HelpText]" value="The patient given name"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='Label'][@Top]" value="34px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='Label'][@Left]" value="306px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='Label'][@Text]" value="Middle Name"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='Label'][@HelpText]" value="The patient middle name"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='Label'][@Top]" value="34px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='Label'][@Left]" value="589px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='TextBox'][@HelpText]" value="The patient family name"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='TextBox'][@Top]" value="29px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='TextBox'][@Left]" value="103px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='family_name' and @WidgetType='TextBox'][@Width]" value="170px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='TextBox'][@HelpText]" value="The patient given name"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='TextBox'][@Top]" value="29px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='TextBox'][@Left]" value="397px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='given_name' and @WidgetType='TextBox'][@Width]" value="170px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='TextBox'][@HelpText]" value="The patient middle name"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='TextBox'][@Top]" value="29px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='TextBox'][@Left]" value="676px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP0px' and @WidgetType='GroupBox']/Item[@Binding='middle_name' and @WidgetType='TextBox'][@Width]" value="125px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox'][@Top]" value="489px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox'][@Left]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox'][@Width]" value="880px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='Label'][@Text]" value="Encounter Information"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='Label'][@HelpText]" value="Header Label"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='Label'][@Top]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='Label'][@Left]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='Label'][@Width]" value="100%"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.encounter_datetime' and @WidgetType='Label'][@Text]" value="Date &amp; Time"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.encounter_datetime' and @WidgetType='Label'][@HelpText]" value="ENCOUNTER DATETIME"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.encounter_datetime' and @WidgetType='Label'][@Top]" value="38px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.encounter_datetime' and @WidgetType='Label'][@Left]" value="18px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.encounter_datetime' and @WidgetType='DateTimeWidget'][@Top]" value="36px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.encounter_datetime' and @WidgetType='DateTimeWidget'][@Left]" value="111px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.encounter_datetime' and @WidgetType='DateTimeWidget'][@Width]" value="166px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='ListBox'][@HelpText]" value="PROVIDER ID"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='ListBox'][@Top]" value="32px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='ListBox'][@Left]" value="647px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='ListBox'][@Width]" value="200px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='Label'][@Text]" value="Location"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='Label'][@HelpText]" value="The patient's location"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='Label'][@Top]" value="38px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='Label'][@Left]" value="310px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='ListBox'][@HelpText]" value="The patient's location"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='ListBox'][@Top]" value="32px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='ListBox'][@Left]" value="374px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='location_id' and @WidgetType='ListBox'][@Width]" value="180px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='Label'][@Text]" value="Provider"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='Label'][@HelpText]" value="PROVIDER ID"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='Label'][@Top]" value="38px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP489px' and @WidgetType='GroupBox']/Item[@Binding='form/encounter/encounter.provider_id' and @WidgetType='Label'][@Left]" value="581px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox'][@Top]" value="76px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox'][@Left]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox'][@Width]" value="880px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='Label'][@Text]" value="Basic Information"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='Label'][@HelpText]" value="Birth date, sex, etc."/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='Label'][@Top]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='Label'][@Left]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='Label'][@Width]" value="100%"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='gender' and @WidgetType='Label'][@Text]" value="Gender"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='gender' and @WidgetType='Label'][@HelpText]" value="The patient's sex"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='gender' and @WidgetType='Label'][@Top]" value="30px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='gender' and @WidgetType='Label'][@Left]" value="12px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='Label'][@Text]" value="Birth Date"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='Label'][@HelpText]" value="The patient birth date"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='Label'][@Top]" value="30px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='Label'][@Left]" value="179px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT348pxTOP30px' and @WidgetType='Label'][@Text]" value="Age"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT348pxTOP30px' and @WidgetType='Label'][@HelpText]" value="Label"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT348pxTOP30px' and @WidgetType='Label'][@Top]" value="30px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT348pxTOP30px' and @WidgetType='Label'][@Left]" value="348px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='Label'][@Text]" value="Patient ID"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='Label'][@HelpText]" value="The patient identifier"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='Label'][@Top]" value="30px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='Label'][@Left]" value="723px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='Label'][@Text]" value="Civil Status"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='Label'][@HelpText]" value="Marriage status of this person"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='Label'][@Top]" value="30px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='Label'][@Left]" value="511px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT436pxTOP80px' and @WidgetType='Label'][@Text]" value="Months"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT436pxTOP80px' and @WidgetType='Label'][@HelpText]" value="Label"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT436pxTOP80px' and @WidgetType='Label'][@Top]" value="80px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT436pxTOP80px' and @WidgetType='Label'][@Left]" value="436px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT367pxTOP80px' and @WidgetType='Label'][@Text]" value="Years"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT367pxTOP80px' and @WidgetType='Label'][@HelpText]" value="Label"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT367pxTOP80px' and @WidgetType='Label'][@Top]" value="80px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT367pxTOP80px' and @WidgetType='Label'][@Left]" value="367px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='M' and @ParentBinding='gender' and @WidgetType='RadioButton'][@Text]" value="Male"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='M' and @ParentBinding='gender' and @WidgetType='RadioButton'][@HelpText]" value="Male"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='M' and @ParentBinding='gender' and @WidgetType='RadioButton'][@Top]" value="50px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='M' and @ParentBinding='gender' and @WidgetType='RadioButton'][@Left]" value="21px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='F' and @ParentBinding='gender' and @WidgetType='RadioButton'][@Text]" value="Female"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='F' and @ParentBinding='gender' and @WidgetType='RadioButton'][@HelpText]" value="Female"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='F' and @ParentBinding='gender' and @WidgetType='RadioButton'][@Top]" value="50px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='F' and @ParentBinding='gender' and @WidgetType='RadioButton'][@Left]" value="85px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='DatePicker'][@HelpText]" value="The patient birth date"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='DatePicker'][@Top]" value="50px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='DatePicker'][@Left]" value="197px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='birth_date' and @WidgetType='DatePicker'][@Width]" value="114px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT554pxTOP30px' and @ParentBinding='birth_date_estimated' and @WidgetType='CheckBox'][@Text]" value="Estimated"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT554pxTOP30px' and @ParentBinding='birth_date_estimated' and @WidgetType='CheckBox'][@HelpText]" value="Is the birth date estimated (i.e., not exact)?"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT554pxTOP30px' and @ParentBinding='birth_date_estimated' and @WidgetType='CheckBox'][@Top]" value="76px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='LEFT554pxTOP30px' and @ParentBinding='birth_date_estimated' and @WidgetType='CheckBox'][@Left]" value="194px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_years' and @WidgetType='TextBox'][@HelpText]" value="Age in years"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_years' and @WidgetType='TextBox'][@Top]" value="50px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_years' and @WidgetType='TextBox'][@Left]" value="362px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_years' and @WidgetType='TextBox'][@Width]" value="57px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_months' and @WidgetType='TextBox'][@HelpText]" value="Age in months"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_months' and @WidgetType='TextBox'][@Top]" value="50px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_months' and @WidgetType='TextBox'][@Left]" value="431px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='age_in_months' and @WidgetType='TextBox'][@Width]" value="49px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='ListBox'][@HelpText]" value="Marriage status of this person"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='ListBox'][@Top]" value="50px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='ListBox'][@Left]" value="536px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute5' and @WidgetType='ListBox'][@Width]" value="158px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='TextBox'][@HelpText]" value="The patient identifier"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='TextBox'][@Top]" value="50px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='TextBox'][@Left]" value="748px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP76px' and @WidgetType='GroupBox']/Item[@Binding='identifier' and @WidgetType='TextBox'][@Width]" value="103px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox'][@Top]" value="193px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox'][@Left]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox'][@Width]" value="880px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='Label'][@Text]" value="Contact Information"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='Label'][@HelpText]" value="Contact Information"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='Label'][@Top]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='Label'][@Left]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='Label'][@Width]" value="100%"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT491pxTOP126px' and @WidgetType='Label'][@Text]" value="Phone Number"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT491pxTOP126px' and @WidgetType='Label'][@HelpText]" value="Label"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT491pxTOP126px' and @WidgetType='Label'][@Top]" value="126px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='LEFT491pxTOP126px' and @WidgetType='Label'][@Left]" value="536px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='Label'][@Text]" value="Province/State"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='Label'][@HelpText]" value="State/Province"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='Label'][@Top]" value="87px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='Label'][@Left]" value="538px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='Label'][@Text]" value="District/County"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='Label'][@HelpText]" value="County/District"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='Label'][@Top]" value="87px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='Label'][@Left]" value="86px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='Label'][@Text]" value="Chief/Local Council"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='Label'][@HelpText]" value="Chief or local council name"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='Label'][@Top]" value="49px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='Label'][@Left]" value="64px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='Label'][@Text]" value="City/Town/Village"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='Label'][@HelpText]" value="City/Village"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='Label'][@Top]" value="49px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='Label'][@Left]" value="522px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='Label'][@Text]" value="Residence/Address/PO Box"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='Label'][@HelpText]" value="Address 1"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='Label'][@Top]" value="126px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='Label'][@Left]" value="19px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='TextBox'][@HelpText]" value="Chief or local council name"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='TextBox'][@Top]" value="42px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='TextBox'][@Left]" value="193px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute10' and @WidgetType='TextBox'][@Width]" value="200px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='TextBox'][@HelpText]" value="City/Village"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='TextBox'][@Top]" value="42px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='TextBox'][@Left]" value="647px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_city_village' and @WidgetType='TextBox'][@Width]" value="200px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='TextBox'][@HelpText]" value="County/District"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='TextBox'][@Top]" value="80px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='TextBox'][@Left]" value="193px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_county_district' and @WidgetType='TextBox'][@Width]" value="200px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='TextBox'][@HelpText]" value="State/Province"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='TextBox'][@Top]" value="80px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='TextBox'][@Left]" value="647px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_state_province' and @WidgetType='TextBox'][@Width]" value="200px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='TextBox'][@HelpText]" value="Address 1"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='TextBox'][@Top]" value="119px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='TextBox'][@Left]" value="193px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_address_address1' and @WidgetType='TextBox'][@Width]" value="200px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute9' and @WidgetType='TextBox'][@HelpText]" value="Phone number"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute9' and @WidgetType='TextBox'][@Top]" value="121px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute9' and @WidgetType='TextBox'][@Left]" value="647px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP193px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute9' and @WidgetType='TextBox'][@Width]" value="200px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox'][@Top]" value="364px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox'][@Left]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox'][@Width]" value="880px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='Label'][@Text]" value="Emergency Contact Information"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='Label'][@HelpText]" value="Emergency Contact Information"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='Label'][@Top]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='Label'][@Left]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='Label'][@Width]" value="100%"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='Label'][@Text]" value="Emergency Contact Relationship"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='Label'][@HelpText]" value="Relationship of emergency contact to patient"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='Label'][@Top]" value="39px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='Label'][@Left]" value="431px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='Label'][@Text]" value="Emergency Contact Address"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='Label'][@HelpText]" value="Address of a person's emergency contact"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='Label'][@Top]" value="78px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='Label'][@Left]" value="457px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='Label'][@Text]" value="Emergency Contact Phone"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='Label'][@HelpText]" value="Phone number of a person's emergency contact"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='Label'][@Top]" value="78px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='Label'][@Left]" value="17px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='Label'][@Text]" value="Emergency Contact Name"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='Label'][@HelpText]" value="Name of next of kin or an emergency contact"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='Label'][@Top]" value="39px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='Label'][@Left]" value="19px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='ListBox'][@HelpText]" value="Relationship of emergency contact to patient"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='ListBox'][@Top]" value="35px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='ListBox'][@Left]" value="647px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute11' and @WidgetType='ListBox'][@Width]" value="200px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='TextBox'][@HelpText]" value="Name of next of kin or an emergency contact"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='TextBox'][@Top]" value="35px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='TextBox'][@Left]" value="193px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute4' and @WidgetType='TextBox'][@Width]" value="200px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='TextBox'][@HelpText]" value="Phone number of a person's emergency contact"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='TextBox'][@Top]" value="72px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='TextBox'][@Left]" value="193px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute12' and @WidgetType='TextBox'][@Width]" value="200px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='TextBox'][@HelpText]" value="Address of a person's emergency contact"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='TextBox'][@Top]" value="72px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='TextBox'][@Left]" value="647px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='LEFT0pxTOP364px' and @WidgetType='GroupBox']/Item[@Binding='person_attribute13' and @WidgetType='TextBox'][@Width]" value="200px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='submit' and @WidgetType='Button'][@Text]" value="Submit"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='submit' and @WidgetType='Button'][@HelpText]" value="submit"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='submit' and @WidgetType='Button'][@Top]" value="581px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='submit' and @WidgetType='Button'][@Left]" value="0px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='submit' and @WidgetType='Button'][@Width]" value="70px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='cancel' and @WidgetType='Button'][@Text]" value="Cancel"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='cancel' and @WidgetType='Button'][@HelpText]" value="cancel"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='cancel' and @WidgetType='Button'][@Top]" value="581px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='cancel' and @WidgetType='Button'][@Left]" value="164px"/><text xpath="Form/Page[@Binding='Page1']/Item[@Binding='cancel' and @WidgetType='Button'][@Width]" value="70px"/></Form></LanguageText></Language></PurcForm>
