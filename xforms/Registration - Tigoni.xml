@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?><xf:xforms xmlns:xf="http://www.w3.org/2002/xforms" xmlns:jr="http://openrosa.org/javarosa" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <xf:model>
+    <xf:instance>
+      <patient name="Patient" id="0" description-template="${/patient/family_name}$ ${/patient/middle_name}$ ${/patient/given_name}$">
+        <enterer/>
+        <family_name/>
+        <middle_name/>
+        <given_name/>
+        <birth_date/>
+        <birth_date_estimated/>
+        <gender/><degree/><family_name2/><family_name_prefix/><family_name_suffix/><prefix/><location_id/><patient_identifier_type_id>3</patient_identifier_type_id><person_attribute2/><person_attribute3/><person_attribute7/><person_attribute6/><person_attribute4/><person_attribute1/><person_address_address1/><person_address_address2/><person_address_city_village/><person_address_state_province/><person_address_postal_code/><person_address_country/><person_address_latitude/><person_address_longitude/><person_address_county_district/><person_address_neighborhood_cell/><person_address_region/><person_address_subregion/><person_address_township_division/><other_identifiers>
+          <other_identifier/>
+          <other_identifier_type_id/>
+          <other_identifier_location_id/>
+        </other_identifiers><identifier/>
+        <patient_id/>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <person_attribute5/>
+        
+        
+        
+        
+        <person_attribute8/>
+        <person_attribute9/>
+        <person_attribute10/>
+        <person_attribute12/><person_attribute11/>
+        
+        <person_attribute13/>
+        <person_attribute14/>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      <form><encounter><encounter.encounter_datetime>now()</encounter.encounter_datetime><encounter.provider_id/></encounter></form><age_in_years/><age_in_months/></patient>
+    </xf:instance>
+    <xf:bind id="family_name" nodeset="/patient/family_name" type="xsd:string" required="true()"/>
+    <xf:bind id="middle_name" nodeset="/patient/middle_name" type="xsd:string"/>
+    <xf:bind id="given_name" nodeset="/patient/given_name" type="xsd:string"/>
+    <xf:bind id="birth_date" nodeset="/patient/birth_date" type="xsd:date"/>
+    <xf:bind id="birth_date_estimated" nodeset="/patient/birth_date_estimated" type="xsd:boolean"/>
+    <xf:bind id="gender" nodeset="/patient/gender" type="xsd:string"/><xf:bind id="degree" nodeset="/patient/degree" type="xsd:string"/><xf:bind id="family_name2" nodeset="/patient/family_name2" type="xsd:string"/><xf:bind id="family_name_prefix" nodeset="/patient/family_name_prefix" type="xsd:string"/><xf:bind id="family_name_suffix" nodeset="/patient/family_name_suffix" type="xsd:string"/><xf:bind id="prefix" nodeset="/patient/prefix" type="xsd:string"/><xf:bind id="location_id" nodeset="/patient/location_id" type="xsd:string" required="true()"/><xf:bind id="patient_identifier_type_id" nodeset="/patient/patient_identifier_type_id" type="xsd:int" required="true()"/><xf:bind id="person_attribute2" nodeset="/patient/person_attribute2" type="xsd:string"/><xf:bind id="person_attribute3" nodeset="/patient/person_attribute3" type="xsd:string"/><xf:bind id="person_attribute7" nodeset="/patient/person_attribute7" type="xsd:string"/><xf:bind id="person_attribute6" nodeset="/patient/person_attribute6" type="xsd:string"/><xf:bind id="person_attribute4" nodeset="/patient/person_attribute4" type="xsd:string"/><xf:bind id="person_attribute1" nodeset="/patient/person_attribute1" type="xsd:string"/><xf:bind id="person_address_address1" nodeset="/patient/person_address_address1" type="xsd:string"/><xf:bind id="person_address_address2" nodeset="/patient/person_address_address2" type="xsd:string"/><xf:bind id="person_address_city_village" nodeset="/patient/person_address_city_village" type="xsd:string" required="true()"/><xf:bind id="person_address_state_province" nodeset="/patient/person_address_state_province" type="xsd:string"/><xf:bind id="person_address_postal_code" nodeset="/patient/person_address_postal_code" type="xsd:string"/><xf:bind id="person_address_country" nodeset="/patient/person_address_country" type="xsd:string"/><xf:bind id="person_address_latitude" nodeset="/patient/person_address_latitude" type="xsd:string"/><xf:bind id="person_address_longitude" nodeset="/patient/person_address_longitude" type="xsd:string"/><xf:bind id="person_address_county_district" nodeset="/patient/person_address_county_district" type="xsd:string"/><xf:bind id="person_address_neighborhood_cell" nodeset="/patient/person_address_neighborhood_cell" type="xsd:string"/><xf:bind id="person_address_region" nodeset="/patient/person_address_region" type="xsd:string"/><xf:bind id="person_address_subregion" nodeset="/patient/person_address_subregion" type="xsd:string"/><xf:bind id="person_address_township_division" nodeset="/patient/person_address_township_division" type="xsd:string"/><xf:bind id="other_identifiers" nodeset="/patient/other_identifiers"/><xf:bind id="identifier" nodeset="/patient/identifier" type="xsd:string" required="true()" locked="true()"/>
+    <xf:bind id="patient_id" nodeset="/patient/patient_id" type="xsd:int" readonly="true()" visible="false()"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <xf:bind id="person_attribute5" nodeset="/patient/person_attribute5" type="xsd:string"/>
+    
+    
+    
+    
+    <xf:bind id="person_attribute8" nodeset="/patient/person_attribute8" type="xsd:string"/>
+    <xf:bind id="person_attribute9" nodeset="/patient/person_attribute9" type="xsd:string"/>
+    <xf:bind id="person_attribute10" nodeset="/patient/person_attribute10" type="xsd:string"/>
+    <xf:bind id="person_attribute12" nodeset="/patient/person_attribute12" type="xsd:string"/><xf:bind id="person_attribute11" nodeset="/patient/person_attribute11" type="xsd:string"/>
+    
+    <xf:bind id="person_attribute13" nodeset="/patient/person_attribute13" type="xsd:string"/>
+    <xf:bind id="person_attribute14" nodeset="/patient/person_attribute14" type="xsd:string"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <xf:bind id="other_identifier" nodeset="/patient/other_identifiers/other_identifier" type="xsd:string"/>
+    <xf:bind id="other_identifier_type_id" nodeset="/patient/other_identifiers/other_identifier_type_id" type="xsd:string"/>
+    <xf:bind id="other_identifier_location_id" nodeset="/patient/other_identifiers/other_identifier_location_id" type="xsd:string"/>
+  <xf:bind id="form_encounter_encounter.encounter_datetime" nodeset="/patient/form/encounter/encounter.encounter_datetime" type="xsd:dateTime" required="true()"/><xf:bind id="form_encounter_encounter.provider_id" nodeset="/patient/form/encounter/encounter.provider_id" type="xsd:string" required="true()"/><xf:bind id="age_in_years" nodeset="/patient/age_in_years" type="xsd:int"/><xf:bind id="age_in_months" nodeset="/patient/age_in_months" type="xsd:int"/></xf:model>
+  <xf:group id="1">
+    <xf:label>Page1</xf:label>
+    <xf:input bind="family_name">
+      <xf:label>Family Name</xf:label>
+      <xf:hint>The patient family name</xf:hint>
+    </xf:input>
+    <xf:input bind="middle_name">
+      <xf:label>Middle Name</xf:label>
+      <xf:hint>The patient middle name</xf:hint>
+    </xf:input>
+    <xf:input bind="given_name">
+      <xf:label>Given Name</xf:label>
+      <xf:hint>The patient given name</xf:hint>
+    </xf:input>
+    <xf:input bind="birth_date">
+      <xf:label>Birth Date</xf:label>
+      <xf:hint>The patient birth date</xf:hint>
+    </xf:input>
+    <xf:input bind="birth_date_estimated">
+      <xf:label>Birth Date Estimated</xf:label>
+      <xf:hint>Is the patient birth date estimated?</xf:hint>
+    </xf:input>
+    <xf:select1 bind="gender">
+      <xf:label>Gender</xf:label>
+      <xf:hint>The patient's sex</xf:hint>
+      <xf:item id="M">
+        <xf:label>Male</xf:label>
+        <xf:value>M</xf:value>
+      </xf:item>
+      <xf:item id="F">
+        <xf:label>Female</xf:label>
+        <xf:value>F</xf:value>
+      </xf:item>
+    </xf:select1><xf:input bind="degree">
+      <xf:label>Degree</xf:label>
+      <xf:hint>The patient name degree</xf:hint>
+    </xf:input><xf:input bind="family_name2">
+      <xf:label>Family Name 2</xf:label>
+      <xf:hint>The patient second family name</xf:hint>
+    </xf:input><xf:input bind="family_name_prefix">
+      <xf:label>Family Name Prefix</xf:label>
+      <xf:hint>The patient family name prefix</xf:hint>
+    </xf:input><xf:input bind="family_name_suffix">
+      <xf:label>Family Name Suffix</xf:label>
+      <xf:hint>The patient family name suffix</xf:hint>
+    </xf:input><xf:input bind="prefix">
+      <xf:label>Prefix</xf:label>
+      <xf:hint>The patient name prefix</xf:hint>
+    </xf:input><xf:select1 bind="location_id">
+      <xf:label>Location</xf:label>
+      <xf:hint>The patient's location</xf:hint>
+      <xf:item id="1">
+        <xf:label>Unknown Location</xf:label>
+        <xf:value>1</xf:value>
+      </xf:item><xf:item id="2">
+        <xf:label>Tigoni</xf:label>
+        <xf:value>2</xf:value>
+      </xf:item>
+      
+    </xf:select1><xf:input bind="patient_identifier_type_id">
+      <xf:label>Identifier Type</xf:label>
+      <xf:hint>The patient's identifier type</xf:hint>
+      
+      <xf:item id="2">
+        <xf:label>Old Identification Number</xf:label>
+        <xf:value>2</xf:value>
+      </xf:item>
+      <xf:item id="1">
+        <xf:label>OpenMRS Identification Number</xf:label>
+        <xf:value>1</xf:value>
+      </xf:item>
+      <xf:item id="4">
+        <xf:label>Tigoni Hospital Generated ID</xf:label>
+        <xf:value>4</xf:value>
+      </xf:item>
+    </xf:input><xf:input bind="person_attribute2">
+      <xf:label>Birthplace</xf:label>
+      <xf:hint>Location of persons birth</xf:hint>
+    </xf:input><xf:input bind="person_attribute3">
+      <xf:label>Citizenship</xf:label>
+      <xf:hint>Country of which this person is a member</xf:hint>
+    </xf:input><xf:select1 bind="person_attribute7">
+      <xf:label>Health Center</xf:label>
+      <xf:hint>Specific Location of this person's home health center.</xf:hint>
+      <xf:item id="1">
+        <xf:label>Unknown Location [1]</xf:label>
+        <xf:value>1</xf:value>
+      </xf:item><xf:item id="2">
+        <xf:label>Tigoni [2]</xf:label>
+        <xf:value>2</xf:value>
+      </xf:item>
+      
+    <xf:item id="3"><xf:label>Kijabe [3]</xf:label><xf:value>3</xf:value></xf:item></xf:select1><xf:input bind="person_attribute6">
+      <xf:label>Health District</xf:label>
+      <xf:hint>District/region in which this patient's home health center resides</xf:hint>
+    </xf:input><xf:input bind="person_attribute4">
+      <xf:label>Emergency Contact Name</xf:label>
+      <xf:hint>Name of next of kin or an emergency contact</xf:hint>
+    </xf:input><xf:input bind="person_attribute1">
+      <xf:label>Race</xf:label>
+      <xf:hint>Group of persons related by common descent or heredity</xf:hint>
+    </xf:input><xf:input bind="person_address_address1">
+      <xf:label>Address 1</xf:label>
+    </xf:input><xf:input bind="person_address_address2">
+      <xf:label>Address 2</xf:label>
+    </xf:input><xf:input bind="person_address_city_village">
+      <xf:label>City/Village</xf:label>
+    </xf:input><xf:input bind="person_address_state_province">
+      <xf:label>State/Province</xf:label>
+    </xf:input><xf:input bind="person_address_postal_code">
+      <xf:label>Postal Code</xf:label>
+    </xf:input><xf:input bind="person_address_country">
+      <xf:label>Country</xf:label>
+    </xf:input><xf:input bind="person_address_latitude">
+      <xf:label>Latitude</xf:label>
+    </xf:input><xf:input bind="person_address_longitude">
+      <xf:label>Longitude</xf:label>
+    </xf:input><xf:input bind="person_address_county_district">
+      <xf:label>County/District</xf:label>
+    </xf:input><xf:input bind="person_address_neighborhood_cell">
+      <xf:label>Neighborhood Cell</xf:label>
+    </xf:input><xf:input bind="person_address_region">
+      <xf:label>Region</xf:label>
+    </xf:input><xf:input bind="person_address_subregion">
+      <xf:label>Sub Region</xf:label>
+    </xf:input><xf:input bind="person_address_township_division">
+      <xf:label>Township/Division</xf:label>
+    </xf:input><xf:group id="other_identifiers">
+      <xf:label>Other dentifiers</xf:label>
+      <xf:repeat bind="other_identifiers">
+        <xf:input bind="other_identifier">
+          <xf:label>Other Identifier</xf:label>
+          <xf:hint>The patient's other identifier value</xf:hint>
+        </xf:input>
+        <xf:select1 bind="other_identifier_type_id">
+          <xf:label>Identifier Type</xf:label>
+          <xf:hint>The patient's other identifier type</xf:hint>
+          <xf:item id="2">
+            <xf:label>Old Identification Number</xf:label>
+            <xf:value>2</xf:value>
+          </xf:item><xf:item id="1">
+            <xf:label>OpenMRS Identification Number</xf:label>
+            <xf:value>1</xf:value>
+          </xf:item><xf:item id="3">
+            <xf:label>File Number</xf:label>
+            <xf:value>3</xf:value>
+          </xf:item>
+          
+          
+          <xf:item id="4">
+            <xf:label>Tigoni Hospital Generated ID</xf:label>
+            <xf:value>4</xf:value>
+          </xf:item>
+        </xf:select1>
+        <xf:select1 bind="other_identifier_location_id">
+          <xf:label>Identifier Location</xf:label>
+          <xf:hint>The patient's other identifier location</xf:hint>
+          <xf:item id="1">
+            <xf:label>Unknown Location [1]</xf:label>
+            <xf:value>1</xf:value>
+          </xf:item><xf:item id="2">
+            <xf:label>Tigoni [2]</xf:label>
+            <xf:value>2</xf:value>
+          </xf:item>
+          
+        <xf:item id="3"><xf:label>Kijabe [3]</xf:label><xf:value>3</xf:value></xf:item></xf:select1>
+      </xf:repeat>
+    </xf:group><xf:input bind="identifier">
+      <xf:label>Identifier</xf:label>
+      <xf:hint>The patient identifier</xf:hint>
+    </xf:input>
+    <xf:input bind="patient_id">
+      <xf:label>Patient ID</xf:label>
+      <xf:hint>The patient ID</xf:hint>
+    </xf:input>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <xf:select1 bind="person_attribute5">
+      <xf:label>Civil Status</xf:label>
+      <xf:hint>Marriage status of this person</xf:hint>
+      <xf:item concept_id="1056" id="1056">
+        <xf:label>SEPARATED</xf:label>
+        <xf:value>1056</xf:value>
+      </xf:item>
+      <xf:item concept_id="1057" id="1057">
+        <xf:label>NEVER MARRIED</xf:label>
+        <xf:value>1057</xf:value>
+      </xf:item>
+      <xf:item concept_id="1058" id="1058">
+        <xf:label>DIVORCED</xf:label>
+        <xf:value>1058</xf:value>
+      </xf:item>
+      <xf:item concept_id="1059" id="1059">
+        <xf:label>WIDOWED</xf:label>
+        <xf:value>1059</xf:value>
+      </xf:item>
+      <xf:item concept_id="1060" id="1060">
+        <xf:label>LIVING WITH PARTNER</xf:label>
+        <xf:value>1060</xf:value>
+      </xf:item>
+      <xf:item concept_id="5555" id="5555">
+        <xf:label>MARRIED</xf:label>
+        <xf:value>5555</xf:value>
+      </xf:item>
+      <xf:item concept_id="135704" id="135704">
+        <xf:label>Lives Alone</xf:label>
+        <xf:value>135704</xf:value>
+      </xf:item>
+      <xf:item concept_id="5622" id="5622">
+        <xf:label>OTHER NON-CODED</xf:label>
+        <xf:value>5622</xf:value>
+      </xf:item>
+    <xf:item id="5"><xf:label>Never Married</xf:label><xf:value>5</xf:value></xf:item><xf:item id="6"><xf:label>Living With Partner</xf:label><xf:value>6</xf:value></xf:item><xf:item id="7"><xf:label>Married</xf:label><xf:value>7</xf:value></xf:item><xf:item id="8"><xf:label>Separated</xf:label><xf:value>8</xf:value></xf:item><xf:item id="9"><xf:label>Divorced</xf:label><xf:value>9</xf:value></xf:item><xf:item id="10"><xf:label>Widowed</xf:label><xf:value>10</xf:value></xf:item></xf:select1>
+    
+    
+    
+    
+    <xf:input bind="person_attribute8">
+      <xf:label>Hair Colour</xf:label>
+      <xf:hint>Hair colour</xf:hint>
+    </xf:input>
+    <xf:input bind="person_attribute9">
+      <xf:label>Phone Number</xf:label>
+      <xf:hint>Phone number</xf:hint>
+    </xf:input>
+    <xf:input bind="person_attribute10">
+      <xf:label>Chief/Local Council</xf:label>
+      <xf:hint>Chief or local council name</xf:hint>
+    </xf:input>
+    <xf:select1 bind="person_attribute12">
+      <xf:label>Emergency Contact Relationship</xf:label>
+      <xf:hint>Relationship of the contact to the patient</xf:hint>
+      <xf:item concept_id="970" id="970">
+        <xf:label>Mother</xf:label>
+        <xf:value>970</xf:value>
+      </xf:item>
+      <xf:item concept_id="971" id="971">
+        <xf:label>Father</xf:label>
+        <xf:value>971</xf:value>
+      </xf:item>
+      <xf:item concept_id="159772" id="159772">
+        <xf:label>Grandmother</xf:label>
+        <xf:value>159772</xf:value>
+      </xf:item>
+      <xf:item concept_id="160273" id="160273">
+        <xf:label>Grandfather</xf:label>
+        <xf:value>160273</xf:value>
+      </xf:item>
+      <xf:item concept_id="972" id="972">
+        <xf:label>Sibling</xf:label>
+        <xf:value>972</xf:value>
+      </xf:item>
+      <xf:item concept_id="1528" id="1528">
+        <xf:label>Child</xf:label>
+        <xf:value>1528</xf:value>
+      </xf:item>
+      <xf:item concept_id="975" id="975">
+        <xf:label>Aunt</xf:label>
+        <xf:value>975</xf:value>
+      </xf:item>
+      <xf:item concept_id="974" id="974">
+        <xf:label>Uncle</xf:label>
+        <xf:value>974</xf:value>
+      </xf:item>
+      <xf:item concept_id="5620" id="5620">
+        <xf:label>Other family member</xf:label>
+        <xf:value>5620</xf:value>
+      </xf:item>
+      <xf:item concept_id="160726" id="160726">
+        <xf:label>Paternal grandmother</xf:label>
+        <xf:value>160726</xf:value>
+      </xf:item>
+      <xf:item concept_id="160723" id="160723">
+        <xf:label>Maternal grandmother</xf:label>
+        <xf:value>160723</xf:value>
+      </xf:item>
+      <xf:item concept_id="160725" id="160725">
+        <xf:label>Paternal grandfather</xf:label>
+        <xf:value>160725</xf:value>
+      </xf:item>
+      <xf:item concept_id="160724" id="160724">
+        <xf:label>Maternal grandfather</xf:label>
+        <xf:value>160724</xf:value>
+      </xf:item>
+      <xf:item concept_id="160727" id="160727">
+        <xf:label>Son</xf:label>
+        <xf:value>160727</xf:value>
+      </xf:item>
+      <xf:item concept_id="160728" id="160728">
+        <xf:label>Daughter</xf:label>
+        <xf:value>160728</xf:value>
+      </xf:item>
+      <xf:item concept_id="160729" id="160729">
+        <xf:label>Brother</xf:label>
+        <xf:value>160729</xf:value>
+      </xf:item>
+      <xf:item concept_id="160730" id="160730">
+        <xf:label>Sister</xf:label>
+        <xf:value>160730</xf:value>
+      </xf:item>
+      <xf:item concept_id="5617" id="5617">
+        <xf:label>PARTNER OR SPOUSE</xf:label>
+        <xf:value>5617</xf:value>
+      </xf:item>
+    <xf:item id="12"><xf:label>Father</xf:label><xf:value>12</xf:value></xf:item><xf:item id="13"><xf:label>Mother</xf:label><xf:value>13</xf:value></xf:item><xf:item id="20"><xf:label>Son</xf:label><xf:value>20</xf:value></xf:item><xf:item id="21"><xf:label>Daughter</xf:label><xf:value>21</xf:value></xf:item><xf:item id="14"><xf:label>Sibling</xf:label><xf:value>14</xf:value></xf:item><xf:item id="15"><xf:label>Grandparent</xf:label><xf:value>15</xf:value></xf:item><xf:item id="16"><xf:label>Uncle</xf:label><xf:value>16</xf:value></xf:item><xf:item id="17"><xf:label>Aunt</xf:label><xf:value>17</xf:value></xf:item><xf:item id="18"><xf:label>Spouse</xf:label><xf:value>18</xf:value></xf:item><xf:item id="19"><xf:label>Other Family Member</xf:label><xf:value>19</xf:value></xf:item></xf:select1><xf:input bind="person_attribute11">
+      <xf:label>Emergency Contact Phone Number</xf:label>
+      <xf:hint>Phone number for emergency contact</xf:hint>
+    </xf:input>
+    
+    <xf:input bind="person_attribute13">
+      <xf:label>Emergency Contact Address</xf:label>
+      <xf:hint>Address of a person's emergency contact</xf:hint>
+    </xf:input>
+    <xf:input bind="person_attribute14">
+      <xf:label>Tigoni Hospital Card ID</xf:label>
+      <xf:hint>The Tigoni Hospital Card ID</xf:hint>
+    </xf:input>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  <xf:input bind="form_encounter_encounter.encounter_datetime"><xf:label>ENCOUNTER DATETIME</xf:label></xf:input><xf:select1 bind="form_encounter_encounter.provider_id"><xf:label>PROVIDER ID</xf:label><xf:item id="1"><xf:label>Wesley Brown</xf:label><xf:value>1</xf:value></xf:item><xf:item id="2"><xf:label>Registration Clerk</xf:label><xf:value>2</xf:value></xf:item><xf:item id="3"><xf:label>Beatrice Muthike</xf:label><xf:value>3</xf:value></xf:item><xf:item id="5"><xf:label>Isaiah Kibe</xf:label><xf:value>5</xf:value></xf:item><xf:item id="6"><xf:label>MARGARET WAITHIEGENI MAINA</xf:label><xf:value>6</xf:value></xf:item><xf:item id="7"><xf:label>JUDY NYAGUTHII KARIUKI</xf:label><xf:value>7</xf:value></xf:item></xf:select1><xf:input bind="age_in_years"><xf:label>Age In Years</xf:label><xf:hint>Age in years</xf:hint></xf:input><xf:input bind="age_in_months"><xf:label>Age In Months</xf:label><xf:hint>Age in months</xf:hint></xf:input></xf:group>
+</xf:xforms>
